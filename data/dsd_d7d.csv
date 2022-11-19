@@ -1,0 +1,1012 @@
+name,path,age,sex,anatom_site,diagnosis,target,fold
+derm-0001,images/NEL/Nel026.jpg,,female,anterior torso,BCC,0,2
+derm-0002,images/NEL/Nel028.jpg,,female,head/neck,BCC,0,1
+derm-0003,images/NEL/Nel033.jpg,,female,head/neck,BCC,0,0
+derm-0004,images/NEL/Nel035.jpg,,male,lower extremity,BCC,0,3
+derm-0005,images/NEL/Nel037.jpg,,female,upper extremity,BCC,0,0
+derm-0006,images/NEL/Nel039.jpg,,female,head/neck,BCC,0,4
+derm-0007,images/NEL/Nel041.jpg,,male,posterior torso,BCC,0,2
+derm-0008,images/NEL/Nel085.jpg,,male,head/neck,BCC,0,3
+derm-0009,images/NEL/Nel087.jpg,,female,posterior torso,BCC,0,3
+derm-0010,images/NEL/Nel089.jpg,,female,head/neck,BCC,0,0
+derm-0011,images/NEL/Nel091.jpg,,female,head/neck,BCC,0,3
+derm-0012,images/NEL/Nel092.jpg,,male,posterior torso,BCC,0,1
+derm-0013,images/NEL/Nel095.jpg,,male,head/neck,BCC,0,1
+derm-0014,images/NEL/Nel097.jpg,,female,head/neck,BCC,0,1
+derm-0015,images/NEL/Nel098.jpg,,female,upper extremity,BCC,0,1
+derm-0016,images/NEL/Nel100.jpg,,male,head/neck,BCC,0,3
+derm-0017,images/NFL/Nfl068.jpg,,male,posterior torso,BCC,0,1
+derm-0018,images/NGL/Ngl047.jpg,,male,posterior torso,BCC,0,4
+derm-0019,images/NHL/Nhl011.jpg,,female,posterior torso,BCC,0,4
+derm-0020,images/NML/Nml098.jpg,,male,posterior torso,BCC,0,0
+derm-0021,images/NML/Nml102.jpg,,female,upper extremity,BCC,0,2
+derm-0022,images/NML/Nml104.jpg,,male,posterior torso,BCC,0,0
+derm-0023,images/NML/Nml106.jpg,,female,head/neck,BCC,0,1
+derm-0024,images/Adl/Adl379.jpg,,female,head/neck,BCC,0,4
+derm-0025,images/Ael/Ael455.jpg,,male,head/neck,BCC,0,0
+derm-0026,images/Ael/Ael469.jpg,,female,head/neck,BCC,0,3
+derm-0027,images/Ael/Ael502.jpg,,female,posterior torso,BCC,0,2
+derm-0028,images/Ael/Ael505.jpg,,male,head/neck,BCC,0,0
+derm-0029,images/Gzl/gzl02.jpg,,female,posterior torso,BCC,0,3
+derm-0030,images/Gzl/gzl06.jpg,,female,posterior torso,BCC,0,4
+derm-0031,images/Gzl/gzl38.jpg,,male,posterior torso,BCC,0,0
+derm-0032,images/Gal/Gal098.jpg,,male,posterior torso,BCC,0,4
+derm-0033,images/FAL/Fal096.jpg,,female,posterior torso,BCC,0,2
+derm-0034,images/FCL/Fcl062.jpg,,female,posterior torso,BCC,0,4
+derm-0035,images/FDL/Fdl070.jpg,,male,posterior torso,BCC,0,1
+derm-0036,images/Ggl/Ggl028.jpg,,male,posterior torso,BCC,0,2
+derm-0037,images/Ggl/Ggl030.jpg,,male,posterior torso,BCC,0,2
+derm-0038,images/Ggl/Ggl082.jpg,,female,anterior torso,BCC,0,2
+derm-0039,images/Fgl/Fgl088.jpg,,female,upper extremity,BCC,0,0
+derm-0040,images/Fgl/Fgl053.jpg,,female,head/neck,BCC,0,1
+derm-0041,images/Fhl/Fhl050.jpg,,female,head/neck,BCC,0,3
+derm-0042,images/Fhl/Fhl052.jpg,,male,head/neck,BCC,0,4
+derm-0043,images/NFL/Nfl040.jpg,,female,palms/soles,NV,0,2
+derm-0044,images/NFL/Nfl046.jpg,,male,head/neck,NV,0,3
+derm-0045,images/NFL/Nfl048.jpg,,male,lower extremity,NV,0,3
+derm-0046,images/NFL/Nfl050.jpg,,female,upper extremity,NV,0,0
+derm-0047,images/NGL/Ngl072.jpg,,female,head/neck,NV,0,1
+derm-0048,images/NGL/Ngl090.jpg,,male,posterior torso,NV,0,3
+derm-0049,images/NML/Nml043.jpg,,male,palms/soles,NV,0,1
+derm-0050,images/NML/Nml087.jpg,,female,lower extremity,NV,0,0
+derm-0051,images/NML/Nml089.jpg,,female,upper extremity,NV,0,2
+derm-0052,images/A1l/Aal068.jpg,,male,palms/soles,NV,0,0
+derm-0053,images/Adl/Adl325.jpg,,male,upper extremity,NV,0,2
+derm-0054,images/Ael/Ael442.jpg,,male,anterior torso,NV,0,2
+derm-0055,images/Ael/Ael444.jpg,,female,posterior torso,NV,0,0
+derm-0056,images/Ael/Ael446.jpg,,female,head/neck,NV,0,3
+derm-0057,images/Ael/Ael508.jpg,,female,lower extremity,NV,0,1
+derm-0058,images/Ael/Ael510.jpg,,male,posterior torso,NV,0,3
+derm-0059,images/Ael/Ael512.jpg,,female,posterior torso,NV,0,1
+derm-0060,images/Gzl/gzl24.jpg,,female,lower extremity,NV,0,0
+derm-0061,images/Gzl/gzl88.jpg,,female,lower extremity,NV,0,1
+derm-0062,images/Gzl/gzl42.jpg,,female,posterior torso,NV,0,4
+derm-0063,images/FAL/Fal012.jpg,,female,posterior torso,NV,0,3
+derm-0064,images/FBL/FBL032.JPG,,female,lower extremity,NV,0,1
+derm-0065,images/FCL/Fcl088.jpg,,female,upper extremity,NV,0,2
+derm-0066,images/FDL/FDL026.JPG,,male,upper extremity,NV,0,2
+derm-0067,images/Ggl/Ggl004.jpg,,female,posterior torso,NV,0,4
+derm-0068,images/Ggl/Ggl006.jpg,,female,head/neck,NV,0,3
+derm-0069,images/Fgl/Fgl063.jpg,,female,upper extremity,NV,0,4
+derm-0070,images/Fgl/Fgl090.jpg,,female,lower extremity,NV,0,1
+derm-0071,images/NDL/Ndl005.jpg,,female,posterior torso,NV,0,2
+derm-0072,images/NBL/Nbl076.jpg,,female,lower extremity,NV,0,0
+derm-0073,images/NBL/Nbl081.jpg,,male,upper extremity,NV,0,0
+derm-0074,images/NBL/Nbl086.jpg,,female,lower extremity,NV,0,1
+derm-0075,images/NBL/Nbl095.jpg,,female,palms/soles,NV,0,2
+derm-0076,images/NBL/Nbl098.jpg,,female,posterior torso,NV,0,3
+derm-0077,images/NCL/Ncl004.jpg,,male,posterior torso,NV,0,1
+derm-0078,images/NCL/Ncl006.jpg,,male,anterior torso,NV,0,1
+derm-0079,images/NCL/Ncl008.jpg,,male,posterior torso,NV,0,4
+derm-0080,images/NCL/Ncl010.jpg,,female,posterior torso,NV,0,0
+derm-0081,images/NCL/Ncl012.jpg,,male,anterior torso,NV,0,0
+derm-0082,images/NCL/Ncl014.jpg,,female,posterior torso,NV,0,0
+derm-0083,images/NCL/Ncl022.jpg,,female,upper extremity,NV,0,0
+derm-0084,images/NCL/Ncl030.jpg,,female,posterior torso,NV,0,2
+derm-0085,images/NCL/Ncl035.jpg,,female,upper extremity,NV,0,2
+derm-0086,images/NCL/Ncl044.jpg,,female,posterior torso,NV,0,3
+derm-0087,images/NCL/Ncl048.jpg,,female,anterior torso,NV,0,1
+derm-0088,images/NCL/Ncl050.jpg,,female,upper extremity,NV,0,4
+derm-0089,images/NCL/Ncl051.jpg,,female,posterior torso,NV,0,0
+derm-0090,images/NCL/Ncl053.jpg,,male,posterior torso,NV,0,4
+derm-0091,images/NCL/Ncl056.jpg,,male,anterior torso,NV,0,3
+derm-0092,images/NCL/Ncl063.jpg,,male,posterior torso,NV,0,4
+derm-0093,images/NCL/Ncl064.jpg,,female,posterior torso,NV,0,3
+derm-0094,images/NCL/Ncl069.jpg,,male,lower extremity,NV,0,1
+derm-0095,images/NCL/Ncl076.jpg,,male,anterior torso,NV,0,3
+derm-0096,images/NCL/Ncl079.jpg,,male,posterior torso,NV,0,4
+derm-0097,images/NCL/Ncl083.jpg,,male,anterior torso,NV,0,0
+derm-0098,images/NCL/Ncl085.jpg,,male,anterior torso,NV,0,2
+derm-0099,images/NDL/Ndl009.jpg,,female,upper extremity,NV,0,0
+derm-0100,images/NDL/Ndl012.jpg,,male,palms/soles,NV,0,2
+derm-0101,images/NDL/ndl013.jpg,,female,lower extremity,NV,0,0
+derm-0102,images/NDL/Ndl018.jpg,,female,anterior torso,NV,0,3
+derm-0103,images/NDL/Ndl021.jpg,,male,posterior torso,NV,0,4
+derm-0104,images/NDL/Ndl022.jpg,,male,posterior torso,NV,0,0
+derm-0105,images/NDL/Ndl025.jpg,,male,posterior torso,NV,0,2
+derm-0106,images/NDL/Ndl027.jpg,,male,posterior torso,NV,0,4
+derm-0107,images/NDL/Ndl028.jpg,,female,posterior torso,NV,0,3
+derm-0108,images/NDL/Ndl031.jpg,,female,anterior torso,NV,0,4
+derm-0109,images/NDL/Ndl033.jpg,,female,anterior torso,NV,0,0
+derm-0110,images/NDL/Ndl035.jpg,,female,anterior torso,NV,0,2
+derm-0111,images/NDL/Ndl037.jpg,,male,anterior torso,NV,0,2
+derm-0112,images/NDL/Ndl039.jpg,,male,anterior torso,NV,0,2
+derm-0113,images/NDL/Ndl040.jpg,,female,lower extremity,NV,0,4
+derm-0114,images/NFL/Nfl032.jpg,,female,palms/soles,NV,0,2
+derm-0115,images/NFL/Nfl052.jpg,,male,posterior torso,NV,0,2
+derm-0116,images/NGL/Ngl023.jpg,,female,upper extremity,NV,0,1
+derm-0117,images/NGL/Ngl043.jpg,,female,lower extremity,NV,0,0
+derm-0118,images/NGL/Ngl049.jpg,,female,posterior torso,NV,0,0
+derm-0119,images/NGL/Ngl053.jpg,,female,anterior torso,NV,0,1
+derm-0120,images/NGL/Ngl074.jpg,,male,lower extremity,NV,0,0
+derm-0121,images/NGL/Ngl076.jpg,,female,anterior torso,NV,0,3
+derm-0122,images/NGL/Ngl092.jpg,,female,posterior torso,NV,0,0
+derm-0123,images/NGL/Ngl094.jpg,,male,posterior torso,NV,0,2
+derm-0124,images/NGL/Ngl096.jpg,,male,anterior torso,NV,0,1
+derm-0125,images/NHL/Nhl013.jpg,,male,posterior torso,NV,0,0
+derm-0126,images/NHL/Nhl015.jpg,,male,posterior torso,NV,0,2
+derm-0127,images/NIL/Nil002.jpg,,female,anterior torso,NV,0,0
+derm-0128,images/NIL/Nil006.jpg,,female,palms/soles,NV,0,3
+derm-0129,images/NIL/Nil008.jpg,,male,posterior torso,NV,0,1
+derm-0130,images/NIL/Nil010.jpg,,female,posterior torso,NV,0,2
+derm-0131,images/NIL/Nil021.jpg,,male,lower extremity,NV,0,0
+derm-0132,images/NIL/Nil025.jpg,,female,posterior torso,NV,0,4
+derm-0133,images/NIL/Nil027.jpg,,male,posterior torso,NV,0,1
+derm-0134,images/NIL/Nil033.jpg,,female,anterior torso,NV,0,2
+derm-0135,images/NIL/Nil035.jpg,,female,anterior torso,NV,0,2
+derm-0136,images/NIL/Nil037.jpg,,female,posterior torso,NV,0,1
+derm-0137,images/NIL/Nil043.jpg,,female,palms/soles,NV,0,4
+derm-0138,images/NIL/Nil045.jpg,,male,anterior torso,NV,0,1
+derm-0139,images/NIL/Nil048.jpg,,female,palms/soles,NV,0,3
+derm-0140,images/NIL/Nil052.jpg,,male,anterior torso,NV,0,0
+derm-0141,images/NIL/Nil054.jpg,,male,posterior torso,NV,0,1
+derm-0142,images/NIL/Nil056.jpg,,male,anterior torso,NV,0,4
+derm-0143,images/NIL/Nil060.jpg,,male,anterior torso,NV,0,2
+derm-0144,images/NLL/Nll016.jpg,,male,anterior torso,NV,0,2
+derm-0145,images/NLL/Nll018.jpg,,female,anterior torso,NV,0,4
+derm-0146,images/NLL/Nll020.jpg,,male,lower extremity,NV,0,4
+derm-0147,images/NLL/nll022.jpg,,female,upper extremity,NV,0,3
+derm-0148,images/NLL/nll026.jpg,,female,lower extremity,NV,0,4
+derm-0149,images/NLL/Nll030.jpg,,male,palms/soles,NV,0,2
+derm-0150,images/NLL/nll032.jpg,,female,palms/soles,NV,0,0
+derm-0151,images/NLL/NLL034.JPG,,male,palms/soles,NV,0,0
+derm-0152,images/NLL/Nll042.jpg,,male,anterior torso,NV,0,1
+derm-0153,images/NLL/Nll046.jpg,,male,upper extremity,NV,0,4
+derm-0154,images/NLL/Nll060.jpg,,female,anterior torso,NV,0,0
+derm-0155,images/NLL/Nll062.jpg,,male,anterior torso,NV,0,2
+derm-0156,images/NLL/NLL067.JPG,,female,lower extremity,NV,0,4
+derm-0157,images/NLL/Nll069.jpg,,male,lower extremity,NV,0,0
+derm-0158,images/NLL/Nll072.jpg,,male,lower extremity,NV,0,4
+derm-0159,images/NLL/Nll076.jpg,,female,lower extremity,NV,0,0
+derm-0160,images/NLL/Nll084.jpg,,male,posterior torso,NV,0,1
+derm-0161,images/NLL/Nll094.jpg,,male,upper extremity,NV,0,2
+derm-0162,images/NLL/Nll098.jpg,,male,anterior torso,NV,0,2
+derm-0163,images/NLL/Nll102.jpg,,female,anterior torso,NV,0,2
+derm-0164,images/NLL/Nll104.jpg,,female,lower extremity,NV,0,0
+derm-0165,images/NLL/Nll106.jpg,,female,upper extremity,NV,0,2
+derm-0166,images/NML/Nml002.jpg,,male,posterior torso,NV,0,0
+derm-0167,images/NML/Nml006.jpg,,female,posterior torso,NV,0,0
+derm-0168,images/NML/Nml008.jpg,,female,anterior torso,NV,0,1
+derm-0169,images/NML/Nml014.jpg,,female,posterior torso,NV,0,4
+derm-0170,images/NML/Nml018.jpg,,female,anterior torso,NV,0,2
+derm-0171,images/NML/Nml030.jpg,,male,posterior torso,NV,0,3
+derm-0172,images/NML/Nml034.jpg,,female,posterior torso,NV,0,0
+derm-0173,images/NML/Nml085.jpg,,male,posterior torso,NV,0,0
+derm-0174,images/Adl/Adl381.jpg,,female,anterior torso,NV,0,1
+derm-0175,images/Adl/Adl387.jpg,,female,posterior torso,NV,0,2
+derm-0176,images/A2l/Abl101.jpg,,female,palms/soles,NV,0,4
+derm-0177,images/A2l/Abl108.jpg,,male,palms/soles,NV,0,1
+derm-0178,images/A2l/Abl112.jpg,,female,palms/soles,NV,0,1
+derm-0179,images/A2l/Abl116.jpg,,female,palms/soles,NV,0,4
+derm-0180,images/A2l/Abl118.jpg,,female,palms/soles,NV,0,1
+derm-0181,images/A2l/Abl121.jpg,,male,palms/soles,NV,0,1
+derm-0182,images/A2l/Abl123.jpg,,male,palms/soles,NV,0,0
+derm-0183,images/A2l/Abl127.jpg,,male,lower extremity,NV,0,1
+derm-0184,images/A2l/Abl129.jpg,,female,palms/soles,NV,0,2
+derm-0185,images/A3l/Acl201.jpg,,male,palms/soles,NV,0,2
+derm-0186,images/A3l/Acl243.jpg,,female,palms/soles,NV,0,0
+derm-0187,images/A3l/Acl245.jpg,,male,palms/soles,NV,0,4
+derm-0188,images/A3l/Acl247.jpg,,female,palms/soles,NV,0,0
+derm-0189,images/A3l/Acl249.jpg,,male,palms/soles,NV,0,3
+derm-0190,images/A3l/Acl251.jpg,,male,palms/soles,NV,0,1
+derm-0191,images/A3l/Acl253.jpg,,female,palms/soles,NV,0,3
+derm-0192,images/A3l/Acl264.jpg,,male,palms/soles,NV,0,3
+derm-0193,images/Adl/Adl333.jpg,,male,palms/soles,NV,0,4
+derm-0194,images/Adl/Adl344.jpg,,female,palms/soles,NV,0,1
+derm-0195,images/Adl/Adl375.jpg,,male,palms/soles,NV,0,4
+derm-0196,images/A1l/Aal044.jpg,,female,palms/soles,NV,0,1
+derm-0197,images/A1l/Aal046.jpg,,female,palms/soles,NV,0,0
+derm-0198,images/A1l/Aal048.jpg,,male,palms/soles,NV,0,0
+derm-0199,images/A1l/Aal052.jpg,,female,palms/soles,NV,0,3
+derm-0200,images/A1l/Aal056.jpg,,male,palms/soles,NV,0,0
+derm-0201,images/A1l/Aal062.jpg,,male,palms/soles,NV,0,0
+derm-0202,images/A1l/Aal064.jpg,,female,palms/soles,NV,0,4
+derm-0203,images/A1l/Aal066.jpg,,male,palms/soles,NV,0,1
+derm-0204,images/A1l/Aal078.jpg,,male,palms/soles,NV,0,0
+derm-0205,images/A1l/Aal086.jpg,,male,palms/soles,NV,0,4
+derm-0206,images/A1l/Aal088.jpg,,male,palms/soles,NV,0,1
+derm-0207,images/A1l/Aal090.jpg,,male,palms/soles,NV,0,3
+derm-0208,images/A1l/Aal094.jpg,,male,palms/soles,NV,0,3
+derm-0209,images/A1l/Aal096.jpg,,female,palms/soles,NV,0,0
+derm-0210,images/A1l/Aal099bis.jpg,,male,palms/soles,NV,0,0
+derm-0211,images/Ael/Ael477.jpg,,male,posterior torso,NV,0,1
+derm-0212,images/A2l/Abl135.jpg,,male,posterior torso,NV,0,4
+derm-0213,images/A2l/Abl137.jpg,,female,anterior torso,NV,0,3
+derm-0214,images/A2l/Abl139.jpg,,female,posterior torso,NV,0,4
+derm-0215,images/A2l/Abl141.jpg,,female,anterior torso,NV,0,3
+derm-0216,images/A2l/Abl191.jpg,,female,posterior torso,NV,0,2
+derm-0217,images/A3l/Acl219.jpg,,male,posterior torso,NV,0,0
+derm-0218,images/A3l/Acl223.jpg,,female,posterior torso,NV,0,4
+derm-0219,images/A3l/Acl281.jpg,,female,lower extremity,NV,0,1
+derm-0220,images/A3l/Acl283.jpg,,male,anterior torso,NV,0,0
+derm-0221,images/A3l/Acl287.jpg,,female,posterior torso,NV,0,4
+derm-0222,images/Adl/Adl319.jpg,,male,anterior torso,NV,0,2
+derm-0223,images/Adl/Adl391.jpg,,female,upper extremity,NV,0,0
+derm-0224,images/Ael/Ael435.jpg,,male,posterior torso,NV,0,4
+derm-0225,images/Ael/Ael448.jpg,,female,head/neck,NV,0,2
+derm-0226,images/Ael/Ael481.jpg,,female,anterior torso,NV,0,1
+derm-0227,images/Adl/Adl362.jpg,,male,lower extremity,NV,0,3
+derm-0228,images/A1l/Aal010.jpg,,male,posterior torso,NV,0,2
+derm-0229,images/A1l/Aal012.jpg,,male,anterior torso,NV,0,4
+derm-0230,images/A2l/Abl143.jpg,,male,anterior torso,NV,0,3
+derm-0231,images/A2l/Abl145.jpg,,male,posterior torso,NV,0,2
+derm-0232,images/A2l/Abl151.jpg,,female,posterior torso,NV,0,2
+derm-0233,images/A2l/Abl153.jpg,,male,posterior torso,NV,0,2
+derm-0234,images/A2l/Abl155.jpg,,female,anterior torso,NV,0,4
+derm-0235,images/A2l/Abl147.jpg,,male,lower extremity,NV,0,1
+derm-0236,images/A2l/Abl157.jpg,,female,anterior torso,NV,0,0
+derm-0237,images/A2l/Abl161.jpg,,female,lower extremity,NV,0,3
+derm-0238,images/A2l/Abl163.jpg,,male,posterior torso,NV,0,0
+derm-0239,images/A2l/Abl165.jpg,,male,posterior torso,NV,0,0
+derm-0240,images/A2l/Abl167.jpg,,female,posterior torso,NV,0,2
+derm-0241,images/A2l/Abl168.jpg,,female,anterior torso,NV,0,0
+derm-0242,images/A2l/Abl171.jpg,,male,posterior torso,NV,0,3
+derm-0243,images/A2l/Abl175.jpg,,female,posterior torso,NV,0,1
+derm-0244,images/A2l/Abl177.jpg,,female,posterior torso,NV,0,0
+derm-0245,images/A2l/Abl179.jpg,,female,lower extremity,NV,0,4
+derm-0246,images/A2l/Abl185.jpg,,female,upper extremity,NV,0,4
+derm-0247,images/A2l/Abl195.jpg,,male,posterior torso,NV,0,2
+derm-0248,images/A3l/Acl215.jpg,,male,posterior torso,NV,0,4
+derm-0249,images/A3l/Acl217.jpg,,male,anterior torso,NV,0,3
+derm-0250,images/A3l/Acl221.jpg,,male,lower extremity,NV,0,3
+derm-0251,images/A3l/Acl235.jpg,,female,posterior torso,NV,0,2
+derm-0252,images/A3l/Acl239.jpg,,male,upper extremity,NV,0,3
+derm-0253,images/A3l/Acl241.jpg,,male,anterior torso,NV,0,4
+derm-0254,images/A3l/Acl259.jpg,,female,anterior torso,NV,0,0
+derm-0255,images/A3l/Acl271.jpg,,male,posterior torso,NV,0,4
+derm-0256,images/A3l/Acl279.jpg,,male,posterior torso,NV,0,3
+derm-0257,images/A3l/Acl299.jpg,,male,lower extremity,NV,0,2
+derm-0258,images/A1l/Aal004.jpg,,male,posterior torso,NV,0,2
+derm-0259,images/Adl/Adl311.jpg,,female,anterior torso,NV,0,3
+derm-0260,images/Adl/Adl321.jpg,,male,lower extremity,NV,0,2
+derm-0261,images/Adl/Adl329.jpg,,male,lower extremity,NV,0,1
+derm-0262,images/Adl/Adl335.jpg,,female,upper extremity,NV,0,1
+derm-0263,images/Adl/Adl340.jpg,,female,posterior torso,NV,0,3
+derm-0264,images/Adl/Adl346.jpg,,male,anterior torso,NV,0,4
+derm-0265,images/Adl/Adl348.jpg,,male,posterior torso,NV,0,1
+derm-0266,images/Adl/Adl350.jpg,,male,posterior torso,NV,0,2
+derm-0267,images/Adl/Adl356.jpg,,male,anterior torso,NV,0,2
+derm-0268,images/Adl/Adl366.jpg,,female,anterior torso,NV,0,4
+derm-0269,images/Adl/Adl371.jpg,,female,anterior torso,NV,0,4
+derm-0270,images/Ael/Ael413.jpg,,male,lower extremity,NV,0,3
+derm-0271,images/Ael/Ael419.jpg,,male,lower extremity,NV,0,0
+derm-0272,images/Ael/Ael425.jpg,,female,anterior torso,NV,0,4
+derm-0273,images/Ael/Ael431.jpg,,male,lower extremity,NV,0,3
+derm-0274,images/Ael/Ael433.jpg,,male,anterior torso,NV,0,4
+derm-0275,images/Ael/Ael452.jpg,,female,posterior torso,NV,0,4
+derm-0276,images/Ael/Ael467.jpg,,female,anterior torso,NV,0,1
+derm-0277,images/Ael/Ael471.jpg,,male,lower extremity,NV,0,0
+derm-0278,images/A1l/Aal006.jpg,,male,posterior torso,NV,0,1
+derm-0279,images/Ael/Ael517.jpg,,female,anterior torso,NV,0,1
+derm-0280,images/Ael/Ael523.jpg,,male,posterior torso,NV,0,3
+derm-0281,images/Ael/Ael525.jpg,,female,posterior torso,NV,0,4
+derm-0282,images/A1l/Aal008.jpg,,male,anterior torso,NV,0,0
+derm-0283,images/Gzl/gzl56.jpg,,female,posterior torso,NV,0,4
+derm-0284,images/Gzl/gzl08.jpg,,male,posterior torso,NV,0,0
+derm-0285,images/Gzl/gzl62.jpg,,male,posterior torso,NV,0,1
+derm-0286,images/Gzl/gzl66.jpg,,male,posterior torso,NV,0,4
+derm-0287,images/Gzl/gzl22.jpg,,male,posterior torso,NV,0,0
+derm-0288,images/Gzl/gzl70.jpg,,male,lower extremity,NV,0,2
+derm-0289,images/Gzl/gzl10.jpg,,male,posterior torso,NV,0,3
+derm-0290,images/Gzl/gzl80.jpg,,male,posterior torso,NV,0,4
+derm-0291,images/Gzl/gzl84.jpg,,male,posterior torso,NV,0,2
+derm-0292,images/Gzl/gzl86.jpg,,female,posterior torso,NV,0,4
+derm-0293,images/Gzl/gzl32.jpg,,female,anterior torso,NV,0,0
+derm-0294,images/Gzl/gzl34.jpg,,female,anterior torso,NV,0,3
+derm-0295,images/Gzl/gzl36.jpg,,male,anterior torso,NV,0,0
+derm-0296,images/Gzl/gzl54.jpg,,male,anterior torso,NV,0,4
+derm-0297,images/Gal/Gal232.jpg,,male,posterior torso,NV,0,4
+derm-0298,images/Gal/Gal010.jpg,,male,posterior torso,NV,0,1
+derm-0299,images/Gal/Gal016.jpg,,male,posterior torso,NV,0,3
+derm-0300,images/Gal/Gal025.jpg,,female,posterior torso,NV,0,2
+derm-0301,images/Gal/Gal045.jpg,,male,posterior torso,NV,0,2
+derm-0302,images/Gal/Gal047.jpg,,male,posterior torso,NV,0,2
+derm-0303,images/Gal/Gal049.jpg,,male,posterior torso,NV,0,1
+derm-0304,images/Gal/Gal043.jpg,,male,posterior torso,NV,0,1
+derm-0305,images/Gal/Gal006.jpg,,female,posterior torso,NV,0,3
+derm-0306,images/Gal/Gal058.jpg,,male,posterior torso,NV,0,0
+derm-0307,images/Gal/Gal230.jpg,,female,posterior torso,NV,0,1
+derm-0308,images/Gal/Gal152.jpg,,female,anterior torso,NV,0,0
+derm-0309,images/FAL/Fal020.jpg,,female,lower extremity,NV,0,2
+derm-0310,images/FAL/Fal024.jpg,,male,anterior torso,NV,0,1
+derm-0311,images/FAL/FAL036.JPG,,female,posterior torso,NV,0,0
+derm-0312,images/FAL/FAL038.JPG,,female,lower extremity,NV,0,2
+derm-0313,images/FAL/FAL042.JPG,,female,posterior torso,NV,0,2
+derm-0314,images/FAL/FAL044.JPG,,female,posterior torso,NV,0,3
+derm-0315,images/FAL/Fal050.jpg,,male,anterior torso,NV,0,2
+derm-0316,images/FAL/FAL054.JPG,,male,posterior torso,NV,0,1
+derm-0317,images/FAL/Fal064.jpg,,female,anterior torso,NV,0,2
+derm-0318,images/FAL/Fal072.jpg,,female,anterior torso,NV,0,4
+derm-0319,images/FAL/Fal090.jpg,,male,anterior torso,NV,0,2
+derm-0320,images/FAL/Fal100.jpg,,female,lower extremity,NV,0,0
+derm-0321,images/FBL/Fbl002.jpg,,female,anterior torso,NV,0,1
+derm-0322,images/FBL/Fbl004.jpg,,female,anterior torso,NV,0,3
+derm-0323,images/FBL/Fbl006.jpg,,male,anterior torso,NV,0,2
+derm-0324,images/FBL/Fbl010.jpg,,male,posterior torso,NV,0,2
+derm-0325,images/FBL/FBL012.JPG,,female,lower extremity,NV,0,3
+derm-0326,images/Fll/Fll019.jpg,,male,posterior torso,NV,0,0
+derm-0327,images/Fll/Fll021.jpg,,female,lower extremity,NV,0,0
+derm-0328,images/FBL/Fbl022.jpg,,female,lower extremity,NV,0,2
+derm-0329,images/FBL/Fbl024.jpg,,female,lower extremity,NV,0,3
+derm-0330,images/Fll/Fll023.jpg,,male,posterior torso,NV,0,3
+derm-0331,images/FBL/Fbl036.jpg,,female,lower extremity,NV,0,0
+derm-0332,images/FBL/Fbl038.jpg,,female,posterior torso,NV,0,0
+derm-0333,images/FBL/Fbl044.jpg,,female,anterior torso,NV,0,1
+derm-0334,images/FBL/Fbl048.jpg,,male,palms/soles,NV,0,4
+derm-0335,images/FBL/Fbl054.jpg,,female,posterior torso,NV,0,0
+derm-0336,images/FBL/Fbl056.jpg,,male,anterior torso,NV,0,3
+derm-0337,images/FBL/FBL062.JPG,,female,anterior torso,NV,0,3
+derm-0338,images/FBL/Fbl064.jpg,,female,anterior torso,NV,0,4
+derm-0339,images/FBL/Fbl068.jpg,,female,upper extremity,NV,0,3
+derm-0340,images/FBL/Fbl072.jpg,,male,lower extremity,NV,0,3
+derm-0341,images/FBL/Fbl074.jpg,,male,posterior torso,NV,0,1
+derm-0342,images/FBL/Fbl076.jpg,,female,posterior torso,NV,0,0
+derm-0343,images/FBL/Fbl080.jpg,,female,posterior torso,NV,0,3
+derm-0344,images/FBL/Fbl088.jpg,,female,lower extremity,NV,0,2
+derm-0345,images/FBL/Fbl090.jpg,,male,lower extremity,NV,0,0
+derm-0346,images/FBL/Fbl092.jpg,,male,head/neck,NV,0,1
+derm-0347,images/FBL/Fbl094.jpg,,female,upper extremity,NV,0,0
+derm-0348,images/FBL/Fbl098.jpg,,female,lower extremity,NV,0,1
+derm-0349,images/Fll/Fll035.jpg,,male,posterior torso,NV,0,2
+derm-0350,images/Fll/Fll037.jpg,,male,posterior torso,NV,0,0
+derm-0351,images/Fll/Fll039.jpg,,male,posterior torso,NV,0,1
+derm-0352,images/FCL/Fcl010.jpg,,female,posterior torso,NV,0,4
+derm-0353,images/FCL/Fcl012.jpg,,female,palms/soles,NV,0,3
+derm-0354,images/FCL/Fcl014.jpg,,female,posterior torso,NV,0,1
+derm-0355,images/FCL/FCL018.JPG,,male,posterior torso,NV,0,4
+derm-0356,images/Fll/Fll041.jpg,,male,posterior torso,NV,0,2
+derm-0357,images/FCL/Fcl024.jpg,,female,posterior torso,NV,0,2
+derm-0358,images/FCL/Fcl028.jpg,,male,posterior torso,NV,0,4
+derm-0359,images/FCL/Fcl030.jpg,,female,anterior torso,NV,0,0
+derm-0360,images/FCL/Fcl032.jpg,,female,posterior torso,NV,0,2
+derm-0361,images/FCL/Fcl034.jpg,,female,posterior torso,NV,0,1
+derm-0362,images/FCL/Fcl036.jpg,,male,anterior torso,NV,0,3
+derm-0363,images/FCL/Fcl038.jpg,,male,anterior torso,NV,0,1
+derm-0364,images/Fll/Fll043.jpg,,male,posterior torso,NV,0,2
+derm-0365,images/FCL/Fcl048.jpg,,female,posterior torso,NV,0,1
+derm-0366,images/FCL/Fcl050.jpg,,male,posterior torso,NV,0,1
+derm-0367,images/FCL/FCL052.JPG,,male,anterior torso,NV,0,2
+derm-0368,images/FCL/FCL066.JPG,,male,posterior torso,NV,0,3
+derm-0369,images/FCL/Fcl070.jpg,,female,lower extremity,NV,0,4
+derm-0370,images/FCL/Fcl076.jpg,,female,posterior torso,NV,0,3
+derm-0371,images/FCL/Fcl080.jpg,,female,anterior torso,NV,0,0
+derm-0372,images/FCL/Fcl090.jpg,,male,anterior torso,NV,0,3
+derm-0373,images/FCL/Fcl094.jpg,,male,lower extremity,NV,0,0
+derm-0374,images/FCL/Fcl096.jpg,,female,anterior torso,NV,0,3
+derm-0375,images/FCL/Fcl098.jpg,,male,lower extremity,NV,0,1
+derm-0376,images/FEL/Fel002.jpg,,female,posterior torso,NV,0,1
+derm-0377,images/FEL/Fel016.jpg,,male,anterior torso,NV,0,3
+derm-0378,images/FEL/Fel018.jpg,,female,lower extremity,NV,0,4
+derm-0379,images/FEL/Fel024.jpg,,male,posterior torso,NV,0,4
+derm-0380,images/FEL/Fel030.jpg,,male,anterior torso,NV,0,1
+derm-0381,images/FEL/Fel034.jpg,,female,anterior torso,NV,0,4
+derm-0382,images/FEL/Fel052.jpg,,male,posterior torso,NV,0,3
+derm-0383,images/FEL/Fel064.jpg,,female,anterior torso,NV,0,3
+derm-0384,images/FEL/Fel068.jpg,,female,posterior torso,NV,0,3
+derm-0385,images/FEL/Fel070.jpg,,female,anterior torso,NV,0,0
+derm-0386,images/FEL/Fel072.jpg,,male,posterior torso,NV,0,3
+derm-0387,images/FEL/Fel082.jpg,,male,upper extremity,NV,0,0
+derm-0388,images/FEL/Fel084.jpg,,female,lower extremity,NV,0,1
+derm-0389,images/FEL/Fel086.jpg,,male,lower extremity,NV,0,2
+derm-0390,images/FEL/Fel088.jpg,,male,anterior torso,NV,0,2
+derm-0391,images/FEL/Fel096.jpg,,female,anterior torso,NV,0,3
+derm-0392,images/FEL/Fel100.jpg,,male,posterior torso,NV,0,0
+derm-0393,images/FFL/FFL002.JPG,,male,upper extremity,NV,0,0
+derm-0394,images/FFL/FFL004.JPG,,female,posterior torso,NV,0,3
+derm-0395,images/FFL/FFL006.JPG,,female,anterior torso,NV,0,4
+derm-0396,images/FFL/FFL008.JPG,,female,anterior torso,NV,0,3
+derm-0397,images/FFL/Ffl010.jpg,,male,anterior torso,NV,0,2
+derm-0398,images/FFL/Ffl014.jpg,,female,anterior torso,NV,0,4
+derm-0399,images/FFL/Ffl016.jpg,,female,anterior torso,NV,0,2
+derm-0400,images/FFL/FFL032.JPG,,male,posterior torso,NV,0,1
+derm-0401,images/FFL/Ffl066.jpg,,male,palms/soles,NV,0,2
+derm-0402,images/FFL/Ffl078.jpg,,female,anterior torso,NV,0,4
+derm-0403,images/FFL/Ffl082.jpg,,female,posterior torso,NV,0,4
+derm-0404,images/FFL/Ffl100.jpg,,female,upper extremity,NV,0,4
+derm-0405,images/FDL/Fdl002.jpg,,female,lower extremity,NV,0,0
+derm-0406,images/FDL/Fdl020.jpg,,male,lower extremity,NV,0,3
+derm-0407,images/Fll/Fll065.jpg,,female,posterior torso,NV,0,2
+derm-0408,images/FDL/Fdl028.jpg,,male,head/neck,NV,0,1
+derm-0409,images/FDL/Fdl030.jpg,,female,head/neck,NV,0,4
+derm-0410,images/FDL/Fdl054.jpg,,female,upper extremity,NV,0,3
+derm-0411,images/Fll/Fll083.jpg,,female,anterior torso,NV,0,1
+derm-0412,images/Fgl/Fgl002.jpg,,female,anterior torso,NV,0,4
+derm-0413,images/Gcl/Gcl073.jpg,,female,anterior torso,NV,0,4
+derm-0414,images/Ggl/Ggl024.jpg,,male,posterior torso,NV,0,1
+derm-0415,images/Ggl/Ggl052.jpg,,male,posterior torso,NV,0,3
+derm-0416,images/Ggl/Ggl060.jpg,,male,anterior torso,NV,0,3
+derm-0417,images/Ggl/Ggl062.jpg,,male,anterior torso,NV,0,2
+derm-0418,images/Ggl/Ggl034.jpg,,male,palms/soles,NV,0,3
+derm-0419,images/Ggl/Ggl074.jpg,,male,lower extremity,NV,0,1
+derm-0420,images/Ggl/Ggl076.jpg,,male,anterior torso,NV,0,4
+derm-0421,images/Ggl/Ggl078.jpg,,male,posterior torso,NV,0,0
+derm-0422,images/Ggl/Ggl088.jpg,,female,anterior torso,NV,0,1
+derm-0423,images/Fgl/Fgl036.jpg,,female,posterior torso,NV,0,2
+derm-0424,images/Fgl/Fgl008.jpg,,male,posterior torso,NV,0,3
+derm-0425,images/Fgl/Fgl010.jpg,,male,posterior torso,NV,0,0
+derm-0426,images/Fgl/Fgl012.jpg,,male,posterior torso,NV,0,3
+derm-0427,images/Fgl/Fgl014.jpg,,male,posterior torso,NV,0,2
+derm-0428,images/Fll/Fll087.jpg,,female,upper extremity,NV,0,2
+derm-0429,images/Fgl/Fgl005.jpg,,female,posterior torso,NV,0,2
+derm-0430,images/Fll/Fll091.jpg,,male,posterior torso,NV,0,4
+derm-0431,images/Fgl/Fgl042.jpg,,male,posterior torso,NV,0,1
+derm-0432,images/Fgl/Fgl047.jpg,,male,posterior torso,NV,0,1
+derm-0433,images/Fgl/Fgl051.jpg,,male,anterior torso,NV,0,1
+derm-0434,images/Fgl/Fgl055.jpg,,female,anterior torso,NV,0,2
+derm-0435,images/Fgl/Fgl068.jpg,,male,posterior torso,NV,0,2
+derm-0436,images/Fgl/Fgl072.jpg,,male,posterior torso,NV,0,3
+derm-0437,images/Fgl/Fgl078.jpg,,male,posterior torso,NV,0,3
+derm-0438,images/Fhl/Fhl030.jpg,,female,palms/soles,NV,0,4
+derm-0439,images/Fhl/Fhl032.jpg,,female,upper extremity,NV,0,3
+derm-0440,images/Fhl/Fhl034.jpg,,female,anterior torso,NV,0,4
+derm-0441,images/Fhl/Fhl038.jpg,,male,lower extremity,NV,0,4
+derm-0442,images/Fhl/Fhl040.jpg,,female,lower extremity,NV,0,1
+derm-0443,images/Fhl/Fhl042.jpg,,male,posterior torso,NV,0,3
+derm-0444,images/Fhl/Fhl064.jpg,,male,posterior torso,NV,0,3
+derm-0445,images/Fhl/Fhl066.jpg,,male,posterior torso,NV,0,1
+derm-0446,images/Fhl/Fhl070.jpg,,male,anterior torso,NV,0,2
+derm-0447,images/Fhl/Fhl072.jpg,,male,posterior torso,NV,0,0
+derm-0448,images/Fhl/Fhl074.jpg,,male,posterior torso,NV,0,1
+derm-0449,images/Fhl/Fhl076.jpg,,male,anterior torso,NV,0,1
+derm-0450,images/Fhl/Fhl078.jpg,,male,posterior torso,NV,0,4
+derm-0451,images/Fhl/Fhl080.jpg,,male,posterior torso,NV,0,3
+derm-0452,images/Fhl/Fhl082.jpg,,male,posterior torso,NV,0,4
+derm-0453,images/Fhl/Fhl084.jpg,,male,anterior torso,NV,0,4
+derm-0454,images/Fhl/Fhl086.jpg,,male,anterior torso,NV,0,3
+derm-0455,images/Fhl/Fhl088.jpg,,male,posterior torso,NV,0,4
+derm-0456,images/Fhl/Fhl090.jpg,,male,anterior torso,NV,0,3
+derm-0457,images/Fhl/Fhl092.jpg,,male,posterior torso,NV,0,3
+derm-0458,images/Fhl/Fhl094.jpg,,male,anterior torso,NV,0,3
+derm-0459,images/Fhl/Fhl096.jpg,,male,posterior torso,NV,0,2
+derm-0460,images/Fhl/Fhl098.jpg,,male,posterior torso,NV,0,2
+derm-0461,images/Fhl/Fhl100.jpg,,male,posterior torso,NV,0,4
+derm-0462,images/Fll/Fll142.jpg,,female,posterior torso,NV,0,3
+derm-0463,images/Fil/Fil062.jpg,,female,posterior torso,NV,0,0
+derm-0464,images/Fml/Fml010.jpg,,female,posterior torso,NV,0,1
+derm-0465,images/Fml/Fml020.jpg,,female,anterior torso,NV,0,3
+derm-0466,images/Fil/Fil088.jpg,,female,lower extremity,NV,0,4
+derm-0467,images/Fil/Fil094.jpg,,male,posterior torso,NV,0,4
+derm-0468,images/NML/Nml067.jpg,,male,anterior torso,NV,0,3
+derm-0469,images/NLL/Nll024.jpg,,female,anterior torso,NV,0,2
+derm-0470,images/NEL/Nel012.jpg,,male,anterior torso,NV,0,1
+derm-0471,images/NFL/Nfl034.jpg,,male,anterior torso,NV,0,4
+derm-0472,images/NGL/Ngl086.jpg,,male,anterior torso,NV,0,2
+derm-0473,images/NGL/Ngl098.jpg,,female,anterior torso,NV,0,2
+derm-0474,images/NML/Nml045.jpg,,male,upper extremity,NV,0,3
+derm-0475,images/NML/Nml047.jpg,,male,posterior torso,NV,0,1
+derm-0476,images/A3l/Acl285.jpg,,male,posterior torso,NV,0,2
+derm-0477,images/Gal/Gal216.jpg,,female,upper extremity,NV,0,1
+derm-0478,images/Gal/Gal218.jpg,,female,upper extremity,NV,0,3
+derm-0479,images/FAL/FAL022.JPG,,male,posterior torso,NV,0,1
+derm-0480,images/FDL/Fdl062.jpg,,male,anterior torso,NV,0,4
+derm-0481,images/Gdl/Gdl100.jpg,,male,posterior torso,NV,0,2
+derm-0482,images/Ggl/Ggl090.jpg,,female,upper extremity,NV,0,2
+derm-0483,images/NCL/Ncl027.jpg,,female,lower extremity,NV,0,1
+derm-0484,images/NCL/Ncl071.jpg,,male,anterior torso,NV,0,1
+derm-0485,images/NCL/Ncl100.jpg,,male,posterior torso,NV,0,4
+derm-0486,images/NEL/Nel008.jpg,,female,anterior torso,NV,0,3
+derm-0487,images/NEL/Nel010.jpg,,female,anterior torso,NV,0,3
+derm-0488,images/NFL/Nfl036.jpg,,female,lower extremity,NV,0,1
+derm-0489,images/NML/Nml039.jpg,,male,anterior torso,NV,0,1
+derm-0490,images/A2l/Abl193.jpg,,male,posterior torso,NV,0,4
+derm-0491,images/Adl/Adl377.jpg,,male,posterior torso,NV,0,3
+derm-0492,images/Ael/Ael475.jpg,,male,lower extremity,NV,0,1
+derm-0493,images/A2l/Abl183.jpg,,male,lower extremity,NV,0,2
+derm-0494,images/Gal/Gal062.jpg,,male,upper extremity,NV,0,3
+derm-0495,images/FFL/Ffl062.jpg,,female,posterior torso,NV,0,2
+derm-0496,images/FFL/Ffl096.jpg,,female,posterior torso,NV,0,4
+derm-0497,images/FDL/FDL016.JPG,,female,upper extremity,NV,0,0
+derm-0498,images/FDL/FDL022.JPG,,female,lower extremity,NV,0,0
+derm-0499,images/Ggl/Ggl002.jpg,,male,lower extremity,NV,0,4
+derm-0500,images/NBL/Nbl080.jpg,,male,head/neck,NV,0,4
+derm-0501,images/NEL/Nel005.jpg,,female,posterior torso,NV,0,1
+derm-0502,images/NFL/Nfl042.jpg,,female,upper extremity,NV,0,3
+derm-0503,images/NFL/Nfl044.jpg,,female,head/neck,NV,0,0
+derm-0504,images/NLL/Nll038.jpg,,male,head/neck,NV,0,0
+derm-0505,images/NLL/Nll040.jpg,,female,head/neck,NV,0,1
+derm-0506,images/NLL/Nll048.jpg,,female,upper extremity,NV,0,0
+derm-0507,images/NLL/Nll050.jpg,,female,anterior torso,NV,0,2
+derm-0508,images/NLL/NLL052.JPG,,male,upper extremity,NV,0,0
+derm-0509,images/NLL/Nll056.jpg,,male,anterior torso,NV,0,2
+derm-0510,images/NLL/Nll058.jpg,,female,anterior torso,NV,0,1
+derm-0511,images/NLL/Nll088.jpg,,female,head/neck,NV,0,2
+derm-0512,images/NML/NML032.JPG,,female,upper extremity,NV,0,1
+derm-0513,images/NML/Nml051.jpg,,male,posterior torso,NV,0,0
+derm-0514,images/NML/Nml063.jpg,,female,head/neck,NV,0,0
+derm-0515,images/NML/Nml065.jpg,,male,anterior torso,NV,0,0
+derm-0516,images/A2l/Abl189.jpg,,female,posterior torso,NV,0,1
+derm-0517,images/A3l/Acl203.jpg,,female,anterior torso,NV,0,1
+derm-0518,images/A3l/Acl263.jpg,,female,anterior torso,NV,0,2
+derm-0519,images/Adl/Adl331.jpg,,female,anterior torso,NV,0,4
+derm-0520,images/Adl/Adl337bis.jpg,,female,anterior torso,NV,0,4
+derm-0521,images/Ael/Ael521.jpg,,female,anterior torso,NV,0,1
+derm-0522,images/Gzl/gzl68.jpg,,male,head/neck,NV,0,4
+derm-0523,images/Gzl/gzl52.jpg,,male,anterior torso,NV,0,0
+derm-0524,images/Gal/Gal033.jpg,,male,anterior torso,NV,0,0
+derm-0525,images/FBL/Fbl030.jpg,,female,upper extremity,NV,0,2
+derm-0526,images/FFL/Ffl042.jpg,,female,anterior torso,NV,0,4
+derm-0527,images/Ggl/Ggl008.jpg,,female,lower extremity,NV,0,3
+derm-0528,images/Ggl/Ggl042.jpg,,female,head/neck,NV,0,4
+derm-0529,images/Ggl/Ggl044.jpg,,male,anterior torso,NV,0,1
+derm-0530,images/Fgl/Fgl035.jpg,,female,posterior torso,NV,0,4
+derm-0531,images/Fgl/Fgl020.jpg,,male,anterior torso,NV,0,4
+derm-0532,images/Fll/Fll089.jpg,,male,posterior torso,NV,0,0
+derm-0533,images/NFL/Nfl004.jpg,,female,lower extremity,UNK,0,4
+derm-0534,images/A1l/Aal014.jpg,,female,lower extremity,UNK,0,2
+derm-0535,images/A1l/Aal018.jpg,,female,upper extremity,UNK,0,2
+derm-0536,images/A1l/Aal020.jpg,,male,lower extremity,UNK,0,2
+derm-0537,images/A2l/Abl197.jpg,,female,lower extremity,UNK,0,0
+derm-0538,images/A3l/Acl209.jpg,,female,upper extremity,UNK,0,3
+derm-0539,images/A3l/Acl211.jpg,,male,lower extremity,UNK,0,0
+derm-0540,images/A1l/Aal024.jpg,,male,upper extremity,UNK,0,3
+derm-0541,images/A3l/Acl231.jpg,,female,lower extremity,UNK,0,1
+derm-0542,images/A3l/Acl233.jpg,,female,posterior torso,UNK,0,1
+derm-0543,images/A1l/Aal028.jpg,,male,upper extremity,UNK,0,4
+derm-0544,images/A1l/Aal030.jpg,,female,upper extremity,UNK,0,3
+derm-0545,images/A1l/Aal038.jpg,,female,upper extremity,UNK,0,3
+derm-0546,images/Adl/Adl373.jpg,,female,upper extremity,UNK,0,0
+derm-0547,images/Ael/Ael527.jpg,,male,posterior torso,UNK,0,2
+derm-0548,images/Gal/Gal226.jpg,,female,upper extremity,UNK,0,4
+derm-0549,images/Ggl/Ggl048.jpg,,female,upper extremity,UNK,0,0
+derm-0550,images/Ggl/Ggl056.jpg,,female,lower extremity,UNK,0,3
+derm-0551,images/Ggl/Ggl084.jpg,,male,lower extremity,UNK,0,4
+derm-0552,images/Fhl/Fhl044.jpg,,female,lower extremity,UNK,0,1
+derm-0553,images/NDL/Ndl089.jpg,,female,posterior torso,BKL,0,0
+derm-0554,images/NDL/Ndl100.jpg,,female,posterior torso,BKL,0,1
+derm-0555,images/Adl/Adl383.jpg,,female,anterior torso,BKL,0,3
+derm-0556,images/Adl/Adl385.jpg,,male,upper extremity,BKL,0,2
+derm-0557,images/Adl/Adl387bis.jpg,,male,anterior torso,BKL,0,2
+derm-0558,images/Ael/Ael415.jpg,,female,head/neck,BKL,0,3
+derm-0559,images/Gzl/gzl60.jpg,,male,posterior torso,BKL,0,4
+derm-0560,images/Gzl/gzl48.jpg,,female,head/neck,BKL,0,3
+derm-0561,images/Gal/Gal169.jpg,,male,head/neck,BKL,0,2
+derm-0562,images/Gal/Gal171.jpg,,female,head/neck,BKL,0,2
+derm-0563,images/Ggl/Ggl070.jpg,,female,posterior torso,BKL,0,0
+derm-0564,images/Ggl/Ggl072.jpg,,male,upper extremity,BKL,0,1
+derm-0565,images/Fhl/Fhl018.jpg,,female,anterior torso,BKL,0,4
+derm-0566,images/Fil/Fil064.jpg,,male,anterior torso,BKL,0,1
+derm-0567,images/Fml/Fml026.jpg,,male,upper extremity,BKL,0,4
+derm-0568,images/New/newl006.jpg,,female,upper extremity,BKL,0,2
+derm-0569,images/New/newl008.jpg,,male,upper extremity,BKL,0,3
+derm-0570,images/New/newl010.jpg,,male,posterior torso,BKL,0,0
+derm-0571,images/New/newl012.jpg,,female,head/neck,BKL,0,4
+derm-0572,images/New/newl018.jpg,,male,upper extremity,BKL,0,0
+derm-0573,images/New/newl020.jpg,,male,upper extremity,BKL,0,4
+derm-0574,images/New/newl022.jpg,,male,upper extremity,BKL,0,3
+derm-0575,images/New/newl024.jpg,,male,upper extremity,BKL,0,4
+derm-0576,images/New/newl026.jpg,,male,upper extremity,BKL,0,3
+derm-0577,images/NAL/Nal020.jpg,,female,upper extremity,MEL,1,3
+derm-0578,images/NAL/Nal022.jpg,,female,lower extremity,MEL,1,2
+derm-0579,images/NAL/Nal037.jpg,,male,anterior torso,MEL,1,0
+derm-0580,images/NAL/Nal044.jpg,,male,upper extremity,MEL,1,0
+derm-0581,images/NAL/Nal047.jpg,,female,lower extremity,MEL,1,4
+derm-0582,images/NAL/Nal066.jpg,,male,head/neck,MEL,1,2
+derm-0583,images/NAL/Nal073.jpg,,male,posterior torso,MEL,1,2
+derm-0584,images/NAL/Nal075.jpg,,female,upper extremity,MEL,1,3
+derm-0585,images/NAL/Nal077.jpg,,male,posterior torso,MEL,1,1
+derm-0586,images/NAL/Nal080.jpg,,male,head/neck,MEL,1,4
+derm-0587,images/NAL/Nal082.jpg,,male,head/neck,MEL,1,1
+derm-0588,images/NAL/Nal084.jpg,,male,anterior torso,MEL,1,1
+derm-0589,images/NAL/Nal088.jpg,,female,head/neck,MEL,1,3
+derm-0590,images/NAL/Nal090.jpg,,female,head/neck,MEL,1,3
+derm-0591,images/NAL/Nal052.jpg,,male,head/neck,MEL,1,2
+derm-0592,images/NAL/Nal099.jpg,,male,lower extremity,MEL,1,4
+derm-0593,images/NBL/Nbl001.jpg,,female,posterior torso,MEL,1,4
+derm-0594,images/NBL/Nbl007.jpg,,male,head/neck,MEL,1,1
+derm-0595,images/NBL/Nbl010.jpg,,male,anterior torso,MEL,1,4
+derm-0596,images/NBL/Nbl013.jpg,,male,anterior torso,MEL,1,2
+derm-0597,images/NBL/Nbl015.jpg,,female,posterior torso,MEL,1,4
+derm-0598,images/NBL/Nbl022.jpg,,female,posterior torso,MEL,1,4
+derm-0599,images/NBL/Nbl025.jpg,,female,head/neck,MEL,1,4
+derm-0600,images/NBL/Nbl031.jpg,,male,anterior torso,MEL,1,2
+derm-0601,images/NFL/Nfl054.jpg,,male,head/neck,MEL,1,3
+derm-0602,images/NGL/Ngl002.jpg,,male,anterior torso,MEL,1,3
+derm-0603,images/NGL/NGL010.JPG,,male,anterior torso,MEL,1,3
+derm-0604,images/NGL/Ngl062.jpg,,female,posterior torso,MEL,1,3
+derm-0605,images/NGL/Ngl068.jpg,,male,anterior torso,MEL,1,4
+derm-0606,images/NGL/Ngl084.jpg,,male,head/neck,MEL,1,2
+derm-0607,images/NHL/Nhl009.jpg,,male,anterior torso,MEL,1,0
+derm-0608,images/NIL/Nil031.jpg,,male,upper extremity,MEL,1,2
+derm-0609,images/NIL/Nil080.jpg,,male,lower extremity,MEL,1,2
+derm-0610,images/NIL/Nil084.jpg,,male,posterior torso,MEL,1,2
+derm-0611,images/Adl/Adl301.jpg,,male,posterior torso,MEL,1,2
+derm-0612,images/Ael/Ael496.jpg,,male,posterior torso,MEL,1,4
+derm-0613,images/Gzl/gzl20.jpg,,female,posterior torso,MEL,1,1
+derm-0614,images/Gzl/gzl28.jpg,,male,lower extremity,MEL,1,2
+derm-0615,images/Gal/Gal240.jpg,,male,posterior torso,MEL,1,0
+derm-0616,images/Gal/Gal039.jpg,,female,upper extremity,MEL,1,0
+derm-0617,images/Gal/Gal185.jpg,,female,head/neck,MEL,1,0
+derm-0618,images/FBL/FBL026.JPG,,female,lower extremity,MEL,1,1
+derm-0619,images/FBL/Fbl028.jpg,,female,upper extremity,MEL,1,0
+derm-0620,images/FCL/Fcl022.jpg,,female,head/neck,MEL,1,3
+derm-0621,images/FCL/Fcl040.jpg,,male,posterior torso,MEL,1,4
+derm-0622,images/FCL/Fcl044.jpg,,male,upper extremity,MEL,1,1
+derm-0623,images/FCL/FCL058.JPG,,male,posterior torso,MEL,1,2
+derm-0624,images/FCL/FCL074.JPG,,female,upper extremity,MEL,1,2
+derm-0625,images/FFL/Ffl080.jpg,,female,lower extremity,MEL,1,2
+derm-0626,images/FDL/Fdl014.jpg,,male,anterior torso,MEL,1,0
+derm-0627,images/FDL/FDL036.JPG,,female,lower extremity,MEL,1,1
+derm-0628,images/Gcl/Gcl003.jpg,,female,posterior torso,MEL,1,1
+derm-0629,images/Gdl/Gdl037.jpg,,male,lower extremity,MEL,1,3
+derm-0630,images/Ggl/Ggl036.jpg,,male,palms/soles,MEL,1,3
+derm-0631,images/Ggl/Ggl068.jpg,,female,posterior torso,MEL,1,3
+derm-0632,images/Fll/Fll085.jpg,,female,posterior torso,MEL,1,3
+derm-0633,images/Fgl/Fgl018.jpg,,male,lower extremity,MEL,1,3
+derm-0634,images/Fgl/Fgl029.jpg,,female,head/neck,MEL,1,0
+derm-0635,images/Fgl/Fgl057.jpg,,female,posterior torso,MEL,1,0
+derm-0636,images/Fil/Fil004.jpg,,male,anterior torso,MEL,1,0
+derm-0637,images/Fll/Fll122.jpg,,female,posterior torso,MEL,1,0
+derm-0638,images/Fil/Fil052.jpg,,male,posterior torso,MEL,1,3
+derm-0639,images/Fil/Fil070.jpg,,female,anterior torso,MEL,1,2
+derm-0640,images/New/newl053.jpg,,male,head/neck,MEL,1,0
+derm-0641,images/NAL/Nal005.jpg,,female,posterior torso,MEL,1,4
+derm-0642,images/NAL/Nal018.jpg,,female,anterior torso,MEL,1,3
+derm-0643,images/NAL/Nal025.jpg,,male,posterior torso,MEL,1,3
+derm-0644,images/NAL/Nal033.jpg,,female,posterior torso,MEL,1,1
+derm-0645,images/NAL/Nal035.jpg,,female,upper extremity,MEL,1,0
+derm-0646,images/NAL/Nal049.jpg,,female,anterior torso,MEL,1,1
+derm-0647,images/NAL/Nal057.jpg,,female,lower extremity,MEL,1,4
+derm-0648,images/NAL/Nal058.jpg,,male,head/neck,MEL,1,0
+derm-0649,images/NAL/Nal064.jpg,,female,posterior torso,MEL,1,1
+derm-0650,images/NAL/Nal070.jpg,,female,lower extremity,MEL,1,3
+derm-0651,images/NAL/Nal086.jpg,,female,lower extremity,MEL,1,0
+derm-0652,images/NAL/Nal091.jpg,,female,anterior torso,MEL,1,4
+derm-0653,images/NAL/nal095.jpg,,female,lower extremity,MEL,1,3
+derm-0654,images/NAL/Nal097.jpg,,male,anterior torso,MEL,1,4
+derm-0655,images/NBL/Nbl004.jpg,,male,head/neck,MEL,1,4
+derm-0656,images/NBL/Nbl006.jpg,,female,posterior torso,MEL,1,2
+derm-0657,images/NBL/Nbl017.jpg,,male,anterior torso,MEL,1,1
+derm-0658,images/NBL/Nbl019.jpg,,female,anterior torso,MEL,1,0
+derm-0659,images/NBL/Nbl028.jpg,,female,head/neck,MEL,1,4
+derm-0660,images/NBL/Nbl030.jpg,,female,posterior torso,MEL,1,0
+derm-0661,images/NBL/Nbl034.jpg,,male,posterior torso,MEL,1,4
+derm-0662,images/NFL/Nfl063.jpg,,female,posterior torso,MEL,1,3
+derm-0663,images/NFL/nfl070.jpg,,female,upper extremity,MEL,1,0
+derm-0664,images/NFL/nfl072.jpg,,female,upper extremity,MEL,1,1
+derm-0665,images/NGL/Ngl008.jpg,,male,posterior torso,MEL,1,4
+derm-0666,images/NGL/Ngl013.jpg,,female,lower extremity,MEL,1,3
+derm-0667,images/NGL/Ngl017.jpg,,female,anterior torso,MEL,1,2
+derm-0668,images/NGL/Ngl019.jpg,,male,posterior torso,MEL,1,0
+derm-0669,images/NGL/Ngl021.jpg,,female,lower extremity,MEL,1,1
+derm-0670,images/NGL/Ngl027.jpg,,female,lower extremity,MEL,1,2
+derm-0671,images/NGL/Ngl039.jpg,,male,lower extremity,MEL,1,1
+derm-0672,images/NGL/Ngl055.jpg,,female,anterior torso,MEL,1,0
+derm-0673,images/NGL/Ngl064.jpg,,female,head/neck,MEL,1,3
+derm-0674,images/NGL/Ngl100.jpg,,female,upper extremity,MEL,1,0
+derm-0675,images/NIL/Nil066.jpg,,male,posterior torso,MEL,1,2
+derm-0676,images/NIL/Nil070.jpg,,female,posterior torso,MEL,1,3
+derm-0677,images/NIL/Nil076.jpg,,female,upper extremity,MEL,1,2
+derm-0678,images/NIL/Nil078.jpg,,male,anterior torso,MEL,1,3
+derm-0679,images/NIL/Nil088.jpg,,female,upper extremity,MEL,1,3
+derm-0680,images/NIL/Nil096.jpg,,male,lower extremity,MEL,1,4
+derm-0681,images/NIL/Nil100.jpg,,male,anterior torso,MEL,1,2
+derm-0682,images/NIL/Nil103.jpg,,female,posterior torso,MEL,1,2
+derm-0683,images/NLL/Nll002.jpg,,female,upper extremity,MEL,1,0
+derm-0684,images/NLL/Nll004.jpg,,female,posterior torso,MEL,1,2
+derm-0685,images/NML/Nml022.jpg,,female,lower extremity,MEL,1,3
+derm-0686,images/NML/Nml077.jpg,,female,posterior torso,MEL,1,3
+derm-0687,images/NML/Nml079.jpg,,male,lower extremity,MEL,1,0
+derm-0688,images/Adl/Adl305.jpg,,female,lower extremity,MEL,1,4
+derm-0689,images/Adl/Adl313.jpg,,male,posterior torso,MEL,1,2
+derm-0690,images/Ael/Ael490.jpg,,female,upper extremity,MEL,1,1
+derm-0691,images/Ael/Ael492.jpg,,female,head/neck,MEL,1,1
+derm-0692,images/Ael/Ael504.jpg,,male,posterior torso,MEL,1,2
+derm-0693,images/Gzl/gzl04.jpg,,female,lower extremity,MEL,1,4
+derm-0694,images/Gzl/gzl16.jpg,,female,posterior torso,MEL,1,4
+derm-0695,images/Gzl/gzl76.jpg,,female,head/neck,MEL,1,0
+derm-0696,images/Gzl/gzl50.jpg,,female,posterior torso,MEL,1,1
+derm-0697,images/Gal/Gal108.jpg,,male,lower extremity,MEL,1,4
+derm-0698,images/Gal/Gal113.jpg,,male,lower extremity,MEL,1,0
+derm-0699,images/Gal/Gal146.jpg,,female,upper extremity,MEL,1,2
+derm-0700,images/Gal/Gal257.jpg,,female,anterior torso,MEL,1,4
+derm-0701,images/Gal/Gal211.jpg,,female,anterior torso,MEL,1,0
+derm-0702,images/FAL/FAL066.JPG,,male,upper extremity,MEL,1,3
+derm-0703,images/FAL/Fal078.jpg,,female,upper extremity,MEL,1,0
+derm-0704,images/FBL/FBL046.JPG,,female,anterior torso,MEL,1,1
+derm-0705,images/FBL/Fbl050.jpg,,male,posterior torso,MEL,1,4
+derm-0706,images/FBL/FBL058.JPG,,female,posterior torso,MEL,1,4
+derm-0707,images/Fll/Fll027.jpg,,female,lower extremity,MEL,1,1
+derm-0708,images/FBL/Fbl082.jpg,,female,lower extremity,MEL,1,0
+derm-0709,images/FCL/Fcl026.jpg,,male,posterior torso,MEL,1,2
+derm-0710,images/FCL/Fcl060.jpg,,female,upper extremity,MEL,1,4
+derm-0711,images/Fll/Fll045.jpg,,male,posterior torso,MEL,1,0
+derm-0712,images/FCL/Fcl100.jpg,,female,anterior torso,MEL,1,0
+derm-0713,images/FEL/Fel098.jpg,,female,lower extremity,MEL,1,3
+derm-0714,images/FFL/FFL020.JPG,,female,lower extremity,MEL,1,2
+derm-0715,images/FFL/Ffl092.jpg,,female,lower extremity,MEL,1,1
+derm-0716,images/FFL/Ffl094.jpg,,male,anterior torso,MEL,1,1
+derm-0717,images/Fll/Fll071.jpg,,male,lower extremity,MEL,1,1
+derm-0718,images/FDL/Fdl056.jpg,,female,lower extremity,MEL,1,0
+derm-0719,images/Gbl/Gbl009.jpg,,male,posterior torso,MEL,1,3
+derm-0720,images/Gcl/Gcl094.jpg,,female,head/neck,MEL,1,2
+derm-0721,images/Gdl/Gdl014.jpg,,female,lower extremity,MEL,1,4
+derm-0722,images/Gdl/Gdl021.jpg,,female,anterior torso,MEL,1,0
+derm-0723,images/Gdl/Gdl025.jpg,,male,posterior torso,MEL,1,2
+derm-0724,images/Ggl/Ggl050.jpg,,female,anterior torso,MEL,1,4
+derm-0725,images/Ggl/Ggl058.jpg,,male,anterior torso,MEL,1,4
+derm-0726,images/Fll/Fll097.jpg,,male,posterior torso,MEL,1,1
+derm-0727,images/Fgl/Fgl082.jpg,,female,lower extremity,MEL,1,3
+derm-0728,images/Fgl/Fgl083.jpg,,female,lower extremity,MEL,1,2
+derm-0729,images/Fhl/Fhl046.jpg,,male,lower extremity,MEL,1,2
+derm-0730,images/Fll/Fll108.jpg,,male,posterior torso,MEL,1,0
+derm-0731,images/Fil/Fil006.jpg,,female,lower extremity,MEL,1,2
+derm-0732,images/Fll/Fll116.jpg,,male,lower extremity,MEL,1,4
+derm-0733,images/Fll/Fll118.jpg,,female,posterior torso,MEL,1,4
+derm-0734,images/Fil/Fil032.jpg,,female,lower extremity,MEL,1,4
+derm-0735,images/Fll/Fll132.jpg,,female,anterior torso,MEL,1,1
+derm-0736,images/New/newl014.jpg,,female,upper extremity,MEL,1,1
+derm-0737,images/New/newl032.jpg,,male,head/neck,MEL,1,0
+derm-0738,images/New/newl043.jpg,,male,anterior torso,MEL,1,1
+derm-0739,images/New/newl047.jpg,,male,posterior torso,MEL,1,3
+derm-0740,images/New/newl049.jpg,,female,lower extremity,MEL,1,2
+derm-0741,images/New/newl051.jpg,,male,lower extremity,MEL,1,2
+derm-0742,images/New/newl059.jpg,,male,posterior torso,MEL,1,0
+derm-0743,images/NAL/Nal002.jpg,,male,palms/soles,MEL,1,3
+derm-0744,images/NAL/Nal008.jpg,,male,lower extremity,MEL,1,1
+derm-0745,images/NBL/Nbl059.jpg,,male,anterior torso,MEL,1,4
+derm-0746,images/NBL/Nbl060.jpg,,male,lower extremity,MEL,1,2
+derm-0747,images/NBL/Nbl063.jpg,,male,posterior torso,MEL,1,4
+derm-0748,images/NBL/Nbl065.jpg,,male,lower extremity,MEL,1,3
+derm-0749,images/NGL/Ngl004.jpg,,female,lower extremity,MEL,1,4
+derm-0750,images/NGL/NGL025.JPG,,female,lower extremity,MEL,1,1
+derm-0751,images/NGL/Ngl041.jpg,,female,lower extremity,MEL,1,1
+derm-0752,images/NGL/Ngl066.jpg,,male,posterior torso,MEL,1,1
+derm-0753,images/NGL/Ngl088.jpg,,male,lower extremity,MEL,1,0
+derm-0754,images/NIL/Nil064.jpg,,female,anterior torso,MEL,1,1
+derm-0755,images/NIL/Nil068.jpg,,male,upper extremity,MEL,1,4
+derm-0756,images/NIL/Nil082.jpg,,male,posterior torso,MEL,1,3
+derm-0757,images/NIL/Nil090.jpg,,female,upper extremity,MEL,1,0
+derm-0758,images/NIL/Nil093.jpg,,female,lower extremity,MEL,1,3
+derm-0759,images/NLL/nll014.jpg,,male,anterior torso,MEL,1,2
+derm-0760,images/NML/Nml024.jpg,,male,lower extremity,MEL,1,3
+derm-0761,images/NML/Nml073.jpg,,male,posterior torso,MEL,1,1
+derm-0762,images/A1l/Aal002.jpg,,male,posterior torso,MEL,1,1
+derm-0763,images/A1l/Aal002bis.jpg,,male,upper extremity,MEL,1,2
+derm-0764,images/Ael/Ael494.jpg,,female,anterior torso,MEL,1,4
+derm-0765,images/Gzl/gzl12.jpg,,male,posterior torso,MEL,1,2
+derm-0766,images/Gzl/gzl26.jpg,,male,anterior torso,MEL,1,0
+derm-0767,images/Gal/Gal220.jpg,,female,upper extremity,MEL,1,2
+derm-0768,images/Gal/Gal262.jpg,,male,posterior torso,MEL,1,4
+derm-0769,images/Gal/Gal209.jpg,,male,anterior torso,MEL,1,1
+derm-0770,images/FAL/FAL006.JPG,,male,posterior torso,MEL,1,4
+derm-0771,images/FAL/FAL094.JPG,,male,posterior torso,MEL,1,1
+derm-0772,images/FBL/FBL020.JPG,,female,anterior torso,MEL,1,4
+derm-0773,images/FCL/FCL056.JPG,,female,posterior torso,MEL,1,0
+derm-0774,images/Fll/Fll047.jpg,,male,lower extremity,MEL,1,0
+derm-0775,images/FCL/FCL084.JPG,,female,upper extremity,MEL,1,2
+derm-0776,images/FCL/Fcl092.jpg,,female,upper extremity,MEL,1,4
+derm-0777,images/FFL/FFL068.JPG,,female,lower extremity,MEL,1,2
+derm-0778,images/Fll/Fll069.jpg,,female,lower extremity,MEL,1,3
+derm-0779,images/Gbl/Gbl014.jpg,,female,lower extremity,MEL,1,3
+derm-0780,images/Gcl/Gcl058.jpg,,male,posterior torso,MEL,1,3
+derm-0781,images/Gdl/Gdl012.jpg,,female,lower extremity,MEL,1,0
+derm-0782,images/Gdl/Gdl023.jpg,,female,lower extremity,MEL,1,1
+derm-0783,images/Gdl/Gdl034.jpg,,female,lower extremity,MEL,1,4
+derm-0784,images/Gdl/Gdl089.jpg,,female,lower extremity,MEL,1,1
+derm-0785,images/Ggl/Ggl040.jpg,,female,head/neck,MEL,1,0
+derm-0786,images/Ggl/Ggl054.jpg,,male,posterior torso,MEL,1,0
+derm-0787,images/Fgl/Fgl006.jpg,,female,lower extremity,MEL,1,2
+derm-0788,images/Fgl/Fgl061.jpg,,male,upper extremity,MEL,1,3
+derm-0789,images/Fil/Fil010.jpg,,female,lower extremity,MEL,1,3
+derm-0790,images/Fll/Fll126.jpg,,female,lower extremity,MEL,1,0
+derm-0791,images/Fll/Fll128.jpg,,female,lower extremity,MEL,1,4
+derm-0792,images/Fll/Fll130.jpg,,female,anterior torso,MEL,1,3
+derm-0793,images/Fll/Fll136.jpg,,male,posterior torso,MEL,1,0
+derm-0794,images/New/newl045.jpg,,male,posterior torso,MEL,1,0
+derm-0795,images/New/newl055.jpg,,female,lower extremity,MEL,1,2
+derm-0796,images/NBL/Nbl037.jpg,,female,lower extremity,MEL,1,3
+derm-0797,images/NBL/Nbl040.jpg,,female,posterior torso,MEL,1,1
+derm-0798,images/NBL/Nbl044.jpg,,female,lower extremity,MEL,1,1
+derm-0799,images/NBL/Nbl048.jpg,,male,lower extremity,MEL,1,2
+derm-0800,images/NBL/NBL049.JPG,,male,oral/genital,MEL,1,1
+derm-0801,images/NBL/Nbl054.jpg,,female,anterior torso,MEL,1,4
+derm-0802,images/NBL/Nbl074.jpg,,female,lower extremity,MEL,1,3
+derm-0803,images/NGL/Ngl006.jpg,,male,upper extremity,MEL,1,3
+derm-0804,images/NGL/Ngl057.jpg,,male,anterior torso,MEL,1,1
+derm-0805,images/NGL/Ngl015.jpg,,female,anterior torso,MEL,1,0
+derm-0806,images/NHL/Nhl017.jpg,,male,posterior torso,MEL,1,3
+derm-0807,images/NIL/Nil062.jpg,,male,posterior torso,MEL,1,0
+derm-0808,images/NIL/Nil086.jpg,,female,posterior torso,MEL,1,1
+derm-0809,images/NML/Nml020.jpg,,male,anterior torso,MEL,1,2
+derm-0810,images/NML/Nml081.jpg,,female,posterior torso,MEL,1,1
+derm-0811,images/Ael/Ael498.jpg,,male,posterior torso,MEL,1,3
+derm-0812,images/Ael/Ael514.jpg,,female,anterior torso,MEL,1,4
+derm-0813,images/Gzl/gzl64.jpg,,male,lower extremity,MEL,1,4
+derm-0814,images/Gzl/gzl78.jpg,,female,posterior torso,MEL,1,0
+derm-0815,images/FCL/FCL054.JPG,,female,upper extremity,MEL,1,1
+derm-0816,images/FCl/Fcl068.jpg,,female,lower extremity,MEL,1,2
+derm-0817,images/FDL/FDL052.JPG,,male,anterior torso,MEL,1,2
+derm-0818,images/Gcl/Gcl039.jpg,,female,lower extremity,MEL,1,1
+derm-0819,images/Gcl/Gcl052.jpg,,male,anterior torso,MEL,1,2
+derm-0820,images/Fgl/Fgl044.jpg,,male,posterior torso,MEL,1,1
+derm-0821,images/Fil/Fil008.jpg,,female,lower extremity,MEL,1,3
+derm-0822,images/Fil/Fil040.jpg,,female,upper extremity,MEL,1,4
+derm-0823,images/New/newl036.jpg,,male,upper extremity,MEL,1,3
+derm-0824,images/NBL/NBL041.JPG,,male,anterior torso,MEL,1,0
+derm-0825,images/NBL/Nbl046.jpg,,female,lower extremity,MEL,1,1
+derm-0826,images/FCL/Fcl016.jpg,,male,palms/soles,MEL,1,1
+derm-0827,images/NBL/Nbl042.jpg,,male,anterior torso,MEL,1,4
+derm-0828,images/NDL/Ndl091.jpg,,female,oral/genital,BKL,0,3
+derm-0829,images/NDL/Ndl094.jpg,,male,head/neck,BKL,0,1
+derm-0830,images/NFL/Nfl038.jpg,,male,head/neck,BKL,0,2
+derm-0831,images/Gzl/gzl72.jpg,,female,head/neck,BKL,0,2
+derm-0832,images/Gal/Gal008.jpg,,female,head/neck,BKL,0,0
+derm-0833,images/Fgl/Fgl059.jpg,,female,oral/genital,BKL,0,4
+derm-0834,images/Fhl/Fhl002.jpg,,female,oral/genital,BKL,0,4
+derm-0835,images/Fhl/Fhl004.jpg,,male,oral/genital,BKL,0,4
+derm-0836,images/Fhl/Fhl006.jpg,,female,oral/genital,BKL,0,0
+derm-0837,images/Fhl/Fhl008.jpg,,male,head/neck,BKL,0,0
+derm-0838,images/Fhl/Fhl010.jpg,,female,head/neck,BKL,0,1
+derm-0839,images/Fhl/Fhl012.jpg,,female,oral/genital,BKL,0,2
+derm-0840,images/Fhl/Fhl014.jpg,,female,head/neck,BKL,0,2
+derm-0841,images/Fhl/Fhl016.jpg,,male,oral/genital,BKL,0,2
+derm-0842,images/Fhl/Fhl022.jpg,,female,head/neck,BKL,0,2
+derm-0843,images/Fhl/Fhl028.jpg,,female,head/neck,BKL,0,4
+derm-0844,images/NEL/Nel050.jpg,,female,lower extremity,UNK,0,1
+derm-0845,images/FBL/FBL066.JPG,,female,lower extremity,UNK,0,2
+derm-0846,images/FFL/Ffl026.jpg,,female,anterior torso,UNK,0,3
+derm-0847,images/FDL/FDL068.JPG,,male,lower extremity,UNK,0,1
+derm-0848,images/New/newl002.jpg,,male,head/neck,UNK,0,4
+derm-0849,images/New/newl028.jpg,,male,head/neck,UNK,0,0
+derm-0850,images/New/newl041.jpg,,female,lower extremity,UNK,0,2
+derm-0851,images/NEL/Nel051.jpg,,female,lower extremity,UNK,0,4
+derm-0852,images/NDL/ndl085.jpg,,male,posterior torso,NV,0,4
+derm-0853,images/NFL/Nfl074.jpg,,female,posterior torso,NV,0,4
+derm-0854,images/NML/Nml004.jpg,,female,anterior torso,NV,0,1
+derm-0855,images/NML/Nml071.jpg,,female,anterior torso,NV,0,3
+derm-0856,images/Gzl/gzl82.jpg,,male,posterior torso,NV,0,2
+derm-0857,images/FEL/Fel092.jpg,,female,anterior torso,NV,0,3
+derm-0858,images/NDL/Ndl075.jpg,,male,upper extremity,NV,0,3
+derm-0859,images/NBL/Nbl088.jpg,,female,lower extremity,NV,0,2
+derm-0860,images/NBL/Nbl100.jpg,,male,lower extremity,NV,0,1
+derm-0861,images/NCL/Ncl020.jpg,,female,lower extremity,NV,0,0
+derm-0862,images/NCL/Ncl032.jpg,,male,lower extremity,NV,0,2
+derm-0863,images/NCL/Ncl078.jpg,,male,lower extremity,NV,0,1
+derm-0864,images/NCL/Ncl093.jpg,,female,lower extremity,NV,0,4
+derm-0865,images/NCL/Ncl095.jpg,,male,anterior torso,NV,0,3
+derm-0866,images/NDL/Ndl046.jpg,,male,head/neck,NV,0,0
+derm-0867,images/NDL/Ndl050.jpg,,female,posterior torso,NV,0,1
+derm-0868,images/NDL/Ndl052.jpg,,female,upper extremity,NV,0,3
+derm-0869,images/NDL/Ndl054.jpg,,female,anterior torso,NV,0,4
+derm-0870,images/NDL/Ndl056.jpg,,female,lower extremity,NV,0,4
+derm-0871,images/NDL/Ndl058.jpg,,male,lower extremity,NV,0,1
+derm-0872,images/NDL/Ndl060.jpg,,female,posterior torso,NV,0,3
+derm-0873,images/NDL/Ndl061.jpg,,male,head/neck,NV,0,1
+derm-0874,images/NDL/NDL063.JPG,,female,lower extremity,NV,0,0
+derm-0875,images/NDL/Ndl068.jpg,,female,lower extremity,NV,0,3
+derm-0876,images/NDL/Ndl069.jpg,,male,anterior torso,NV,0,4
+derm-0877,images/NDL/Ndl071.jpg,,male,lower extremity,NV,0,0
+derm-0878,images/NDL/Ndl074.jpg,,female,lower extremity,NV,0,0
+derm-0879,images/NDL/Ndl079.jpg,,female,upper extremity,NV,0,1
+derm-0880,images/NDL/Ndl081.jpg,,male,posterior torso,NV,0,1
+derm-0881,images/NDL/Ndl083.jpg,,female,lower extremity,NV,0,0
+derm-0882,images/NGL/Ngl029.jpg,,female,upper extremity,NV,0,4
+derm-0883,images/NGL/Ngl031.jpg,,female,lower extremity,NV,0,2
+derm-0884,images/NGL/Ngl033.jpg,,female,lower extremity,NV,0,4
+derm-0885,images/NGL/Ngl037.jpg,,female,upper extremity,NV,0,3
+derm-0886,images/NGL/Ngl060.jpg,,female,lower extremity,NV,0,2
+derm-0887,images/NGL/Ngl078.jpg,,male,upper extremity,NV,0,3
+derm-0888,images/NIL/Nil004.jpg,,female,lower extremity,NV,0,3
+derm-0889,images/NIL/Nil023.jpg,,male,lower extremity,NV,0,4
+derm-0890,images/NIL/Nil029.jpg,,female,lower extremity,NV,0,1
+derm-0891,images/NIL/Nil041.jpg,,female,lower extremity,NV,0,0
+derm-0892,images/NIL/Nil058.jpg,,male,posterior torso,NV,0,4
+derm-0893,images/NLL/Nll100.jpg,,female,anterior torso,NV,0,1
+derm-0894,images/NML/Nml010.jpg,,male,lower extremity,NV,0,2
+derm-0895,images/NML/Nml012.jpg,,female,posterior torso,NV,0,4
+derm-0896,images/NML/Nml016.jpg,,female,lower extremity,NV,0,0
+derm-0897,images/NML/Nml049.jpg,,male,lower extremity,NV,0,0
+derm-0898,images/NML/NML092.jpg,,male,upper extremity,NV,0,1
+derm-0899,images/NML/Nml094.jpg,,male,palms/soles,NV,0,0
+derm-0900,images/NML/Nml096.jpg,,male,upper extremity,NV,0,4
+derm-0901,images/Ael/Ael421.jpg,,male,lower extremity,NV,0,3
+derm-0902,images/A3l/Acl207.jpg,,male,lower extremity,NV,0,1
+derm-0903,images/A3l/Acl225.jpg,,female,upper extremity,NV,0,1
+derm-0904,images/A3l/Acl295.jpg,,male,posterior torso,NV,0,0
+derm-0905,images/Adl/Adl358.jpg,,female,lower extremity,NV,0,2
+derm-0906,images/Adl/Adl395.jpg,,female,lower extremity,NV,0,2
+derm-0907,images/Adl/Adl399.jpg,,male,upper extremity,NV,0,2
+derm-0908,images/Ael/Ael401.jpg,,male,posterior torso,NV,0,4
+derm-0909,images/Ael/Ael405.jpg,,male,upper extremity,NV,0,3
+derm-0910,images/Ael/Ael407.jpg,,female,lower extremity,NV,0,2
+derm-0911,images/Ael/Ael465.jpg,,female,posterior torso,NV,0,2
+derm-0912,images/Ael/Ael484.jpg,,male,anterior torso,NV,0,1
+derm-0913,images/Gzl/gzl58.jpg,,female,lower extremity,NV,0,1
+derm-0914,images/Gzl/gzl14.jpg,,female,upper extremity,NV,0,3
+derm-0915,images/Gal/Gal191.jpg,,female,lower extremity,NV,0,4
+derm-0916,images/Gal/Gal222.jpg,,female,lower extremity,NV,0,0
+derm-0917,images/Gal/Gal238.jpg,,male,upper extremity,NV,0,3
+derm-0918,images/FAL/FAL070.JPG,,female,posterior torso,NV,0,0
+derm-0919,images/FBL/Fbl018.jpg,,female,lower extremity,NV,0,4
+derm-0920,images/FBL/Fbl040.jpg,,male,upper extremity,NV,0,0
+derm-0921,images/FBL/FBL042.JPG,,female,lower extremity,NV,0,1
+derm-0922,images/FEL/Fel038.jpg,,male,lower extremity,NV,0,0
+derm-0923,images/FEL/Fel074.jpg,,female,lower extremity,NV,0,4
+derm-0924,images/FEL/Fel080.jpg,,male,anterior torso,NV,0,3
+derm-0925,images/FFL/Ffl034.jpg,,female,head/neck,NV,0,3
+derm-0926,images/FFL/Ffl084.jpg,,male,lower extremity,NV,0,3
+derm-0927,images/Fll/Fll077.jpg,,female,posterior torso,NV,0,0
+derm-0928,images/Ggl/Ggl026.jpg,,male,upper extremity,NV,0,2
+derm-0929,images/Ggl/Ggl010.jpg,,male,lower extremity,NV,0,4
+derm-0930,images/Fgl/Fgl023.jpg,,female,anterior torso,NV,0,3
+derm-0931,images/Fgl/Fgl037.jpg,,female,posterior torso,NV,0,2
+derm-0932,images/Fgl/Fgl074.jpg,,female,anterior torso,NV,0,0
+derm-0933,images/Fgl/Fgl087.jpg,,female,lower extremity,NV,0,2
+derm-0934,images/New/newl030.jpg,,female,upper extremity,NV,0,3
+derm-0935,images/New/newl034.jpg,,female,upper extremity,NV,0,2
+derm-0936,images/New/newl039.jpg,,female,lower extremity,NV,0,1
+derm-0937,images/NEL/Nel021.jpg,,male,posterior torso,BKL,0,1
+derm-0938,images/NEL/Nel023.jpg,,male,anterior torso,BKL,0,4
+derm-0939,images/NFL/Nfl006.jpg,,male,posterior torso,BKL,0,4
+derm-0940,images/NFL/Nfl008.jpg,,female,posterior torso,BKL,0,3
+derm-0941,images/NFL/Nfl010.jpg,,male,head/neck,BKL,0,1
+derm-0942,images/NFL/Nfl012.jpg,,male,posterior torso,BKL,0,1
+derm-0943,images/NFL/Nfl014.jpg,,female,anterior torso,BKL,0,3
+derm-0944,images/NFL/Nfl016.jpg,,female,upper extremity,BKL,0,4
+derm-0945,images/NFL/Nfl018.jpg,,male,upper extremity,BKL,0,0
+derm-0946,images/NFL/Nfl020.jpg,,male,head/neck,BKL,0,4
+derm-0947,images/NFL/Nfl022.jpg,,female,head/neck,BKL,0,4
+derm-0948,images/NFL/Nfl024.jpg,,male,head/neck,BKL,0,0
+derm-0949,images/NFL/Nfl026.jpg,,male,anterior torso,BKL,0,0
+derm-0950,images/NFL/NFL028.JPG,,female,anterior torso,BKL,0,0
+derm-0951,images/NML/Nml114.jpg,,male,head/neck,BKL,0,1
+derm-0952,images/A3l/Acl227.jpg,,male,posterior torso,BKL,0,0
+derm-0953,images/A3l/Acl229.jpg,,male,upper extremity,BKL,0,0
+derm-0954,images/A3l/Acl261.jpg,,female,anterior torso,BKL,0,3
+derm-0955,images/Ael/Ael409.jpg,,male,upper extremity,BKL,0,3
+derm-0956,images/Ael/Ael427.jpg,,female,posterior torso,BKL,0,3
+derm-0957,images/Ael/Ael488.jpg,,female,anterior torso,BKL,0,0
+derm-0958,images/A3l/Acl205.jpg,,female,posterior torso,BKL,0,1
+derm-0959,images/Gzl/gzl18.jpg,,male,anterior torso,BKL,0,0
+derm-0960,images/Gzl/gzl30.jpg,,female,anterior torso,BKL,0,0
+derm-0961,images/Gzl/gzl46.jpg,,female,anterior torso,BKL,0,2
+derm-0962,images/Gal/Gal130.jpg,,male,posterior torso,BKL,0,4
+derm-0963,images/Gal/Gal173.jpg,,male,anterior torso,BKL,0,1
+derm-0964,images/Gal/Gal134.jpg,,female,posterior torso,BKL,0,3
+derm-0965,images/FAL/Fal048.jpg,,male,head/neck,BKL,0,1
+derm-0966,images/FFL/FFL052.JPG,,male,anterior torso,BKL,0,1
+derm-0967,images/FFL/Ffl070.jpg,,male,head/neck,BKL,0,2
+derm-0968,images/FDL/Fdl032.jpg,,male,head/neck,BKL,0,1
+derm-0969,images/FDL/Fdl058.jpg,,male,posterior torso,BKL,0,2
+derm-0970,images/FDL/Fdl071.jpg,,female,head/neck,BKL,0,3
+derm-0971,images/FDL/Fdl074.jpg,,male,head/neck,BKL,0,4
+derm-0972,images/Ggl/Ggl022.jpg,,female,anterior torso,BKL,0,1
+derm-0973,images/Ggl/Ggl018.jpg,,male,head/neck,BKL,0,2
+derm-0974,images/Ggl/Ggl020.jpg,,male,anterior torso,BKL,0,2
+derm-0975,images/Ggl/Ggl046.jpg,,female,anterior torso,BKL,0,3
+derm-0976,images/Ggl/Ggl066.jpg,,male,upper extremity,BKL,0,0
+derm-0977,images/Ggl/Ggl086.jpg,,male,anterior torso,BKL,0,2
+derm-0978,images/Fll/Fll104.jpg,,male,posterior torso,BKL,0,1
+derm-0979,images/Fhl/Fhl048.jpg,,male,posterior torso,BKL,0,3
+derm-0980,images/Fil/Fil080.jpg,,female,anterior torso,BKL,0,1
+derm-0981,images/FDL/Fdl060.jpg,,female,anterior torso,BKL,0,3
+derm-0982,images/NEL/Nel044.jpg,,female,lower extremity,VASC,0,3
+derm-0983,images/NEL/NEL055.JPG,,female,head/neck,VASC,0,2
+derm-0984,images/NEL/Nel056.jpg,,female,head/neck,VASC,0,3
+derm-0985,images/NEL/Nel059.jpg,,male,palms/soles,VASC,0,4
+derm-0986,images/NEL/Nel061.jpg,,male,palms/soles,VASC,0,3
+derm-0987,images/NEL/Nel062.jpg,,female,anterior torso,VASC,0,1
+derm-0988,images/NEL/Nel064.jpg,,male,upper extremity,VASC,0,2
+derm-0989,images/NEL/Nel066.jpg,,female,anterior torso,VASC,0,2
+derm-0990,images/NEL/Nel068.jpg,,male,lower extremity,VASC,0,3
+derm-0991,images/NEL/Nel071.jpg,,female,upper extremity,VASC,0,4
+derm-0992,images/NEL/Nel073.jpg,,female,head/neck,VASC,0,4
+derm-0993,images/NEL/Nel075.jpg,,female,lower extremity,VASC,0,1
+derm-0994,images/NEL/Nel078.jpg,,female,palms/soles,VASC,0,0
+derm-0995,images/NEL/Nel081.jpg,,female,palms/soles,VASC,0,2
+derm-0996,images/NGL/Ngl082.jpg,,female,head/neck,VASC,0,3
+derm-0997,images/NML/Nml041.jpg,,female,upper extremity,VASC,0,1
+derm-0998,images/NML/Nml108.jpg,,male,upper extremity,VASC,0,4
+derm-0999,images/A3l/Acl237.jpg,,female,lower extremity,VASC,0,1
+derm-1000,images/Ael/Ael459.jpg,,male,palms/soles,VASC,0,3
+derm-1001,images/Ael/Ael519bis.jpg,,male,palms/soles,VASC,0,4
+derm-1002,images/Gzl/gzl74.jpg,,male,upper extremity,VASC,0,0
+derm-1003,images/Ggl/Ggl012.jpg,,female,lower extremity,VASC,0,0
+derm-1004,images/Ggl/Ggl014.jpg,,female,anterior torso,VASC,0,4
+derm-1005,images/Ggl/Ggl016.jpg,,male,anterior torso,VASC,0,2
+derm-1006,images/Ggl/Ggl032.jpg,,female,palms/soles,VASC,0,0
+derm-1007,images/Fhl/Fhl058.jpg,,male,head/neck,VASC,0,1
+derm-1008,images/Fhl/Fhl060.jpg,,female,anterior torso,VASC,0,0
+derm-1009,images/Fil/Fil082.jpg,,male,head/neck,VASC,0,0
+derm-1010,images/New/newl016.jpg,,male,upper extremity,VASC,0,2
+derm-1011,images/Adl/Adl389.jpg,,female,lower extremity,MEL,1,1

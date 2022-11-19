@@ -1,0 +1,1012 @@
+name,path,age,sex,anatom_site,diagnosis,target,fold
+macro-0001,images/NEL/NEL025.JPG,,female,anterior torso,BCC,0,2
+macro-0002,images/NEL/NEL027.JPG,,female,head/neck,BCC,0,1
+macro-0003,images/NEL/Nel032.jpg,,female,head/neck,BCC,0,0
+macro-0004,images/NEL/NEL034.JPG,,male,lower extremity,BCC,0,3
+macro-0005,images/NEL/NEL036.JPG,,female,upper extremity,BCC,0,0
+macro-0006,images/NEL/Nel038.jpg,,female,head/neck,BCC,0,4
+macro-0007,images/NEL/Nel040.jpg,,male,posterior torso,BCC,0,2
+macro-0008,images/NEL/Nel084.jpg,,male,head/neck,BCC,0,3
+macro-0009,images/NEL/Nel086.jpg,,female,posterior torso,BCC,0,3
+macro-0010,images/NEL/NEL088.JPG,,female,head/neck,BCC,0,0
+macro-0011,images/NEL/NEL090.JPG,,female,head/neck,BCC,0,3
+macro-0012,images/NEL/NEL093.JPG,,male,posterior torso,BCC,0,1
+macro-0013,images/NEL/Nel094.jpg,,male,head/neck,BCC,0,1
+macro-0014,images/NEL/NEL096.JPG,,female,head/neck,BCC,0,1
+macro-0015,images/NEL/NEL099.JPG,,female,upper extremity,BCC,0,1
+macro-0016,images/NEL/Nel101.jpg,,male,head/neck,BCC,0,3
+macro-0017,images/NFL/Nfl067.jpg,,male,posterior torso,BCC,0,1
+macro-0018,images/NGL/NGL046.JPG,,male,posterior torso,BCC,0,4
+macro-0019,images/NHL/Nhl010.jpg,,female,posterior torso,BCC,0,4
+macro-0020,images/NML/NML097.JPG,,male,posterior torso,BCC,0,0
+macro-0021,images/NML/Nml101.jpg,,female,upper extremity,BCC,0,2
+macro-0022,images/NML/Nml103.jpg,,male,posterior torso,BCC,0,0
+macro-0023,images/NML/Nml105.jpg,,female,head/neck,BCC,0,1
+macro-0024,images/Adl/Adl378.jpg,,female,head/neck,BCC,0,4
+macro-0025,images/Ael/Ael454.jpg,,male,head/neck,BCC,0,0
+macro-0026,images/Ael/Ael468.jpg,,female,head/neck,BCC,0,3
+macro-0027,images/Ael/Ael501.jpg,,female,posterior torso,BCC,0,2
+macro-0028,images/Ael/Ael505bis.jpg,,male,head/neck,BCC,0,0
+macro-0029,images/Gzl/gzl01.jpg,,female,posterior torso,BCC,0,3
+macro-0030,images/Gzl/gzl05.jpg,,female,posterior torso,BCC,0,4
+macro-0031,images/Gzl/gzl37.jpg,,male,posterior torso,BCC,0,0
+macro-0032,images/Gal/Gal097.jpg,,male,posterior torso,BCC,0,4
+macro-0033,images/FAL/Fal095.jpg,,female,posterior torso,BCC,0,2
+macro-0034,images/FCL/Fcl061.jpg,,female,posterior torso,BCC,0,4
+macro-0035,images/FDL/Fdl069.jpg,,male,posterior torso,BCC,0,1
+macro-0036,images/Ggl/Ggl027.jpg,,male,posterior torso,BCC,0,2
+macro-0037,images/Ggl/Ggl029.jpg,,male,posterior torso,BCC,0,2
+macro-0038,images/Ggl/Ggl081.jpg,,female,anterior torso,BCC,0,2
+macro-0039,images/Fgl/Fgl080.jpg,,female,upper extremity,BCC,0,0
+macro-0040,images/Fgl/Fgl052.jpg,,female,head/neck,BCC,0,1
+macro-0041,images/Fhl/Fhl049.jpg,,female,head/neck,BCC,0,3
+macro-0042,images/Fhl/Fhl051.jpg,,male,head/neck,BCC,0,4
+macro-0043,images/NFL/Nfl039.jpg,,female,palms/soles,NV,0,2
+macro-0044,images/NFL/Nfl045.jpg,,male,head/neck,NV,0,3
+macro-0045,images/NFL/Nfl047.jpg,,male,lower extremity,NV,0,3
+macro-0046,images/NFL/Nfl049.jpg,,female,upper extremity,NV,0,0
+macro-0047,images/NGL/Ngl071.jpg,,female,head/neck,NV,0,1
+macro-0048,images/NGL/Ngl089.jpg,,male,posterior torso,NV,0,3
+macro-0049,images/NML/Nml042.jpg,,male,palms/soles,NV,0,1
+macro-0050,images/NML/Nml086.jpg,,female,lower extremity,NV,0,0
+macro-0051,images/NML/Nml088.jpg,,female,upper extremity,NV,0,2
+macro-0052,images/A1l/Aal067.jpg,,male,palms/soles,NV,0,0
+macro-0053,images/Adl/Adl324.jpg,,male,upper extremity,NV,0,2
+macro-0054,images/Ael/Ael441.jpg,,male,anterior torso,NV,0,2
+macro-0055,images/Ael/Ael443.jpg,,female,posterior torso,NV,0,0
+macro-0056,images/Ael/Ael445.jpg,,female,head/neck,NV,0,3
+macro-0057,images/Ael/Ael507.jpg,,female,lower extremity,NV,0,1
+macro-0058,images/Ael/Ael509.jpg,,male,posterior torso,NV,0,3
+macro-0059,images/Ael/Ael511.jpg,,female,posterior torso,NV,0,1
+macro-0060,images/Gzl/gzl23.jpg,,female,lower extremity,NV,0,0
+macro-0061,images/Gzl/gzl87.jpg,,female,lower extremity,NV,0,1
+macro-0062,images/Gzl/gzl41.jpg,,female,posterior torso,NV,0,4
+macro-0063,images/FAL/Fal010.jpg,,female,posterior torso,NV,0,3
+macro-0064,images/FBL/FBL031.JPG,,female,lower extremity,NV,0,1
+macro-0065,images/FCL/FCL087.JPG,,female,upper extremity,NV,0,2
+macro-0066,images/FDL/Fdl025.jpg,,male,upper extremity,NV,0,2
+macro-0067,images/Ggl/Ggl003.jpg,,female,posterior torso,NV,0,4
+macro-0068,images/Ggl/Ggl005.jpg,,female,head/neck,NV,0,3
+macro-0069,images/Fgl/Fgl062.jpg,,female,upper extremity,NV,0,4
+macro-0070,images/Fgl/Fgl049.jpg,,female,lower extremity,NV,0,1
+macro-0071,images/NDL/Ndl006.jpg,,female,posterior torso,NV,0,2
+macro-0072,images/NBL/Nbl075.jpg,,female,lower extremity,NV,0,0
+macro-0073,images/NBL/Nbl082.jpg,,male,upper extremity,NV,0,0
+macro-0074,images/NBL/Nbl085.jpg,,female,lower extremity,NV,0,1
+macro-0075,images/NBL/Nbl096.jpg,,female,palms/soles,NV,0,2
+macro-0076,images/NBL/Nbl097.jpg,,female,posterior torso,NV,0,3
+macro-0077,images/NCL/Ncl003.jpg,,male,posterior torso,NV,0,1
+macro-0078,images/NCL/Ncl005.jpg,,male,anterior torso,NV,0,1
+macro-0079,images/NCL/Ncl007.jpg,,male,posterior torso,NV,0,4
+macro-0080,images/NCL/Ncl009.jpg,,female,posterior torso,NV,0,0
+macro-0081,images/NCL/Ncl011.jpg,,male,anterior torso,NV,0,0
+macro-0082,images/NCL/Ncl013.jpg,,female,posterior torso,NV,0,0
+macro-0083,images/NCL/Ncl021.jpg,,female,upper extremity,NV,0,0
+macro-0084,images/NCL/Ncl031.jpg,,female,posterior torso,NV,0,2
+macro-0085,images/NCL/Ncl036.jpg,,female,upper extremity,NV,0,2
+macro-0086,images/NCL/Ncl043.jpg,,female,posterior torso,NV,0,3
+macro-0087,images/NCL/Ncl047.jpg,,female,anterior torso,NV,0,1
+macro-0088,images/NCL/Ncl049.jpg,,female,upper extremity,NV,0,4
+macro-0089,images/NCL/Ncl052.jpg,,female,posterior torso,NV,0,0
+macro-0090,images/NCL/Ncl054.jpg,,male,posterior torso,NV,0,4
+macro-0091,images/NCL/Ncl055.jpg,,male,anterior torso,NV,0,3
+macro-0092,images/NCL/Ncl062.jpg,,male,posterior torso,NV,0,4
+macro-0093,images/NCL/Ncl065.jpg,,female,posterior torso,NV,0,3
+macro-0094,images/NCL/NCL070.JPG,,male,lower extremity,NV,0,1
+macro-0095,images/NCL/Ncl075.jpg,,male,anterior torso,NV,0,3
+macro-0096,images/NCL/Ncl080.jpg,,male,posterior torso,NV,0,4
+macro-0097,images/NCL/Ncl084.jpg,,male,anterior torso,NV,0,0
+macro-0098,images/NCL/Ncl086.jpg,,male,anterior torso,NV,0,2
+macro-0099,images/NDL/Ndl010.jpg,,female,upper extremity,NV,0,0
+macro-0100,images/NDL/Ndl011.jpg,,male,palms/soles,NV,0,2
+macro-0101,images/NDL/ndl014.jpg,,female,lower extremity,NV,0,0
+macro-0102,images/NDL/Ndl017.jpg,,female,anterior torso,NV,0,3
+macro-0103,images/NDL/Ndl020.jpg,,male,posterior torso,NV,0,4
+macro-0104,images/NDL/Ndl023.jpg,,male,posterior torso,NV,0,0
+macro-0105,images/NDL/Ndl024.jpg,,male,posterior torso,NV,0,2
+macro-0106,images/NDL/Ndl026.jpg,,male,posterior torso,NV,0,4
+macro-0107,images/NDL/Ndl029.jpg,,female,posterior torso,NV,0,3
+macro-0108,images/NDL/Ndl030.jpg,,female,anterior torso,NV,0,4
+macro-0109,images/NDL/Ndl032.jpg,,female,anterior torso,NV,0,0
+macro-0110,images/NDL/NDL034.JPG,,female,anterior torso,NV,0,2
+macro-0111,images/NDL/Ndl036.jpg,,male,anterior torso,NV,0,2
+macro-0112,images/NDL/Ndl038.jpg,,male,anterior torso,NV,0,2
+macro-0113,images/NDL/Ndl041.jpg,,female,lower extremity,NV,0,4
+macro-0114,images/NFL/Nfl031.jpg,,female,palms/soles,NV,0,2
+macro-0115,images/NFL/NFL051.JPG,,male,posterior torso,NV,0,2
+macro-0116,images/NGL/Ngl022.jpg,,female,upper extremity,NV,0,1
+macro-0117,images/NGL/Ngl042.jpg,,female,lower extremity,NV,0,0
+macro-0118,images/NGL/NGL048.JPG,,female,posterior torso,NV,0,0
+macro-0119,images/NGL/Ngl052.jpg,,female,anterior torso,NV,0,1
+macro-0120,images/NGL/Ngl073.jpg,,male,lower extremity,NV,0,0
+macro-0121,images/NGL/Ngl075.jpg,,female,anterior torso,NV,0,3
+macro-0122,images/NGL/Ngl091.jpg,,female,posterior torso,NV,0,0
+macro-0123,images/NGL/Ngl093.jpg,,male,posterior torso,NV,0,2
+macro-0124,images/NGL/Ngl095.jpg,,male,anterior torso,NV,0,1
+macro-0125,images/NHL/Nhl012.jpg,,male,posterior torso,NV,0,0
+macro-0126,images/NHL/Nhl014.jpg,,male,posterior torso,NV,0,2
+macro-0127,images/NIL/Nil001.jpg,,female,anterior torso,NV,0,0
+macro-0128,images/NIL/Nil005.jpg,,female,palms/soles,NV,0,3
+macro-0129,images/NIL/Nil007.jpg,,male,posterior torso,NV,0,1
+macro-0130,images/NIL/Nil009.jpg,,female,posterior torso,NV,0,2
+macro-0131,images/NIL/Nil020.jpg,,male,lower extremity,NV,0,0
+macro-0132,images/NIL/Nil024.jpg,,female,posterior torso,NV,0,4
+macro-0133,images/NIL/Nil026.jpg,,male,posterior torso,NV,0,1
+macro-0134,images/NIL/Nil032.jpg,,female,anterior torso,NV,0,2
+macro-0135,images/NIL/Nil034.jpg,,female,anterior torso,NV,0,2
+macro-0136,images/NIL/Nil036.jpg,,female,posterior torso,NV,0,1
+macro-0137,images/NIL/Nil042.jpg,,female,palms/soles,NV,0,4
+macro-0138,images/NIL/Nil044.jpg,,male,anterior torso,NV,0,1
+macro-0139,images/NIL/Nil047.jpg,,female,palms/soles,NV,0,3
+macro-0140,images/NIL/Nil051.jpg,,male,anterior torso,NV,0,0
+macro-0141,images/NIL/Nil053.jpg,,male,posterior torso,NV,0,1
+macro-0142,images/NIL/NIL055.JPG,,male,anterior torso,NV,0,4
+macro-0143,images/NIL/Nil059.jpg,,male,anterior torso,NV,0,2
+macro-0144,images/NLL/Nll015.jpg,,male,anterior torso,NV,0,2
+macro-0145,images/NLL/Nll017.jpg,,female,anterior torso,NV,0,4
+macro-0146,images/NLL/Nll019.jpg,,male,lower extremity,NV,0,4
+macro-0147,images/NLL/Nll021.jpg,,female,upper extremity,NV,0,3
+macro-0148,images/NLL/Nll025.jpg,,female,lower extremity,NV,0,4
+macro-0149,images/NLL/nll029.jpg,,male,palms/soles,NV,0,2
+macro-0150,images/NLL/nll031.jpg,,female,palms/soles,NV,0,0
+macro-0151,images/NLL/nll033.jpg,,male,palms/soles,NV,0,0
+macro-0152,images/NLL/Nll041.jpg,,male,anterior torso,NV,0,1
+macro-0153,images/NLL/NLL045.JPG,,male,upper extremity,NV,0,4
+macro-0154,images/NLL/Nll059.jpg,,female,anterior torso,NV,0,0
+macro-0155,images/NLL/Nll061.jpg,,male,anterior torso,NV,0,2
+macro-0156,images/NLL/NLL065.JPG,,female,lower extremity,NV,0,4
+macro-0157,images/NLL/Nll068.jpg,,male,lower extremity,NV,0,0
+macro-0158,images/NLL/Nll071.jpg,,male,lower extremity,NV,0,4
+macro-0159,images/NLL/Nll075.jpg,,female,lower extremity,NV,0,0
+macro-0160,images/NLL/Nll083.jpg,,male,posterior torso,NV,0,1
+macro-0161,images/NLL/Nll093.jpg,,male,upper extremity,NV,0,2
+macro-0162,images/NLL/Nll097.jpg,,male,anterior torso,NV,0,2
+macro-0163,images/NLL/Nll101.jpg,,female,anterior torso,NV,0,2
+macro-0164,images/NLL/Nll103.jpg,,female,lower extremity,NV,0,0
+macro-0165,images/NLL/Nll105.jpg,,female,upper extremity,NV,0,2
+macro-0166,images/NML/NML001.JPG,,male,posterior torso,NV,0,0
+macro-0167,images/NML/NML005.JPG,,female,posterior torso,NV,0,0
+macro-0168,images/NML/Nml007.jpg,,female,anterior torso,NV,0,1
+macro-0169,images/NML/Nml013.jpg,,female,posterior torso,NV,0,4
+macro-0170,images/NML/NML017.jpg,,female,anterior torso,NV,0,2
+macro-0171,images/NML/Nml029.jpg,,male,posterior torso,NV,0,3
+macro-0172,images/NML/Nml033.jpg,,female,posterior torso,NV,0,0
+macro-0173,images/NML/Nml084.jpg,,male,posterior torso,NV,0,0
+macro-0174,images/Adl/Adl380.jpg,,female,anterior torso,NV,0,1
+macro-0175,images/Adl/Adl386.jpg,,female,posterior torso,NV,0,2
+macro-0176,images/A2l/Abl100.jpg,,female,palms/soles,NV,0,4
+macro-0177,images/A2l/Abl107.jpg,,male,palms/soles,NV,0,1
+macro-0178,images/A2l/Abl111.jpg,,female,palms/soles,NV,0,1
+macro-0179,images/A2l/Abl115.jpg,,female,palms/soles,NV,0,4
+macro-0180,images/A2l/Abl117.jpg,,female,palms/soles,NV,0,1
+macro-0181,images/A2l/Abl120.jpg,,male,palms/soles,NV,0,1
+macro-0182,images/A2l/Abl122.jpg,,male,palms/soles,NV,0,0
+macro-0183,images/A2l/Abl126.jpg,,male,lower extremity,NV,0,1
+macro-0184,images/A2l/Abl128.jpg,,female,palms/soles,NV,0,2
+macro-0185,images/A3l/Acl200.jpg,,male,palms/soles,NV,0,2
+macro-0186,images/A3l/Acl242.jpg,,female,palms/soles,NV,0,0
+macro-0187,images/A3l/Acl244.jpg,,male,palms/soles,NV,0,4
+macro-0188,images/A3l/Acl246.jpg,,female,palms/soles,NV,0,0
+macro-0189,images/A3l/Acl248.jpg,,male,palms/soles,NV,0,3
+macro-0190,images/A3l/Acl250.jpg,,male,palms/soles,NV,0,1
+macro-0191,images/A3l/Acl252.jpg,,female,palms/soles,NV,0,3
+macro-0192,images/A3l/Acl265.jpg,,male,palms/soles,NV,0,3
+macro-0193,images/Adl/Adl332.jpg,,male,palms/soles,NV,0,4
+macro-0194,images/Adl/Adl343.jpg,,female,palms/soles,NV,0,1
+macro-0195,images/Adl/Adl374.jpg,,male,palms/soles,NV,0,4
+macro-0196,images/A1l/Aal043.jpg,,female,palms/soles,NV,0,1
+macro-0197,images/A1l/Aal045.jpg,,female,palms/soles,NV,0,0
+macro-0198,images/A1l/Aal047.jpg,,male,palms/soles,NV,0,0
+macro-0199,images/A1l/Aal051.jpg,,female,palms/soles,NV,0,3
+macro-0200,images/A1l/Aal055.jpg,,male,palms/soles,NV,0,0
+macro-0201,images/A1l/Aal061.jpg,,male,palms/soles,NV,0,0
+macro-0202,images/A1l/Aal063.jpg,,female,palms/soles,NV,0,4
+macro-0203,images/A1l/Aal065.jpg,,male,palms/soles,NV,0,1
+macro-0204,images/A1l/Aal077.jpg,,male,palms/soles,NV,0,0
+macro-0205,images/A1l/Aal085.jpg,,male,palms/soles,NV,0,4
+macro-0206,images/A1l/Aal087.jpg,,male,palms/soles,NV,0,1
+macro-0207,images/A1l/Aal089.jpg,,male,palms/soles,NV,0,3
+macro-0208,images/A1l/Aal093.jpg,,male,palms/soles,NV,0,3
+macro-0209,images/A1l/Aal095.jpg,,female,palms/soles,NV,0,0
+macro-0210,images/A1l/Aal099.jpg,,male,palms/soles,NV,0,0
+macro-0211,images/Ael/Ael476.jpg,,male,posterior torso,NV,0,1
+macro-0212,images/A2l/Abl134.jpg,,male,posterior torso,NV,0,4
+macro-0213,images/A2l/Abl136.jpg,,female,anterior torso,NV,0,3
+macro-0214,images/A2l/Abl138.jpg,,female,posterior torso,NV,0,4
+macro-0215,images/A2l/Abl140.jpg,,female,anterior torso,NV,0,3
+macro-0216,images/A2l/Abl190.jpg,,female,posterior torso,NV,0,2
+macro-0217,images/A3l/Acl218.jpg,,male,posterior torso,NV,0,0
+macro-0218,images/A3l/Acl222.jpg,,female,posterior torso,NV,0,4
+macro-0219,images/A3l/Acl280.jpg,,female,lower extremity,NV,0,1
+macro-0220,images/A3l/Acl282.jpg,,male,anterior torso,NV,0,0
+macro-0221,images/A3l/Acl286.jpg,,female,posterior torso,NV,0,4
+macro-0222,images/Adl/Adl318.jpg,,male,anterior torso,NV,0,2
+macro-0223,images/Adl/Adl390.jpg,,female,upper extremity,NV,0,0
+macro-0224,images/Ael/Ael434.jpg,,male,posterior torso,NV,0,4
+macro-0225,images/Ael/Ael447.jpg,,female,head/neck,NV,0,2
+macro-0226,images/Ael/Ael480.jpg,,female,anterior torso,NV,0,1
+macro-0227,images/Adl/Adl361.jpg,,male,lower extremity,NV,0,3
+macro-0228,images/A1l/Aal009.jpg,,male,posterior torso,NV,0,2
+macro-0229,images/A1l/Aal011.jpg,,male,anterior torso,NV,0,4
+macro-0230,images/A2l/Abl142.jpg,,male,anterior torso,NV,0,3
+macro-0231,images/A2l/Abl144.jpg,,male,posterior torso,NV,0,2
+macro-0232,images/A2l/Abl150.jpg,,female,posterior torso,NV,0,2
+macro-0233,images/A2l/Abl152.jpg,,male,posterior torso,NV,0,2
+macro-0234,images/A2l/Abl154.jpg,,female,anterior torso,NV,0,4
+macro-0235,images/A2l/Abl146.jpg,,male,lower extremity,NV,0,1
+macro-0236,images/A2l/Abl156.jpg,,female,anterior torso,NV,0,0
+macro-0237,images/A2l/Abl160.jpg,,female,lower extremity,NV,0,3
+macro-0238,images/A2l/Abl162.jpg,,male,posterior torso,NV,0,0
+macro-0239,images/A2l/Abl164.jpg,,male,posterior torso,NV,0,0
+macro-0240,images/A2l/Abl166.jpg,,female,posterior torso,NV,0,2
+macro-0241,images/A2l/Abl169.jpg,,female,anterior torso,NV,0,0
+macro-0242,images/A2l/Abl170.jpg,,male,posterior torso,NV,0,3
+macro-0243,images/A2l/Abl174.jpg,,female,posterior torso,NV,0,1
+macro-0244,images/A2l/Abl176.jpg,,female,posterior torso,NV,0,0
+macro-0245,images/A2l/Abl178.jpg,,female,lower extremity,NV,0,4
+macro-0246,images/A2l/Abl184.jpg,,female,upper extremity,NV,0,4
+macro-0247,images/A2l/Abl194.jpg,,male,posterior torso,NV,0,2
+macro-0248,images/A3l/Acl214.jpg,,male,posterior torso,NV,0,4
+macro-0249,images/A3l/Acl216.jpg,,male,anterior torso,NV,0,3
+macro-0250,images/A3l/Acl220.jpg,,male,lower extremity,NV,0,3
+macro-0251,images/A3l/Acl234.jpg,,female,posterior torso,NV,0,2
+macro-0252,images/A3l/Acl238.jpg,,male,upper extremity,NV,0,3
+macro-0253,images/A3l/Acl240.jpg,,male,anterior torso,NV,0,4
+macro-0254,images/A3l/Acl258.jpg,,female,anterior torso,NV,0,0
+macro-0255,images/A3l/Acl270.jpg,,male,posterior torso,NV,0,4
+macro-0256,images/A3l/Acl278.jpg,,male,posterior torso,NV,0,3
+macro-0257,images/A3l/Acl298.jpg,,male,lower extremity,NV,0,2
+macro-0258,images/A1l/Aal003.jpg,,male,posterior torso,NV,0,2
+macro-0259,images/Adl/Adl310.jpg,,female,anterior torso,NV,0,3
+macro-0260,images/Adl/Adl320.jpg,,male,lower extremity,NV,0,2
+macro-0261,images/Adl/Adl328.jpg,,male,lower extremity,NV,0,1
+macro-0262,images/Adl/Adl334.jpg,,female,upper extremity,NV,0,1
+macro-0263,images/Adl/Adl339.jpg,,female,posterior torso,NV,0,3
+macro-0264,images/Adl/Adl345.jpg,,male,anterior torso,NV,0,4
+macro-0265,images/Adl/Adl347.jpg,,male,posterior torso,NV,0,1
+macro-0266,images/Adl/Adl349.jpg,,male,posterior torso,NV,0,2
+macro-0267,images/Adl/Adl355.jpg,,male,anterior torso,NV,0,2
+macro-0268,images/Adl/Adl365.jpg,,female,anterior torso,NV,0,4
+macro-0269,images/Adl/Adl370.jpg,,female,anterior torso,NV,0,4
+macro-0270,images/Ael/Ael412.jpg,,male,lower extremity,NV,0,3
+macro-0271,images/Ael/Ael418.jpg,,male,lower extremity,NV,0,0
+macro-0272,images/Ael/Ael424.jpg,,female,anterior torso,NV,0,4
+macro-0273,images/Ael/Ael430.jpg,,male,lower extremity,NV,0,3
+macro-0274,images/Ael/Ael432.jpg,,male,anterior torso,NV,0,4
+macro-0275,images/Ael/Ael451.jpg,,female,posterior torso,NV,0,4
+macro-0276,images/Ael/Ael466.jpg,,female,anterior torso,NV,0,1
+macro-0277,images/Ael/Ael470.jpg,,male,lower extremity,NV,0,0
+macro-0278,images/A1l/Aal005.jpg,,male,posterior torso,NV,0,1
+macro-0279,images/Ael/Ael516.jpg,,female,anterior torso,NV,0,1
+macro-0280,images/Ael/Ael522.jpg,,male,posterior torso,NV,0,3
+macro-0281,images/Ael/Ael524.jpg,,female,posterior torso,NV,0,4
+macro-0282,images/A1l/Aal007.jpg,,male,anterior torso,NV,0,0
+macro-0283,images/Gzl/gzl55.jpg,,female,posterior torso,NV,0,4
+macro-0284,images/Gzl/gzl07.jpg,,male,posterior torso,NV,0,0
+macro-0285,images/Gzl/gzl61.jpg,,male,posterior torso,NV,0,1
+macro-0286,images/Gzl/gzl65.jpg,,male,posterior torso,NV,0,4
+macro-0287,images/Gzl/gzl21.jpg,,male,posterior torso,NV,0,0
+macro-0288,images/Gzl/gzl69.jpg,,male,lower extremity,NV,0,2
+macro-0289,images/Gzl/gzl09.jpg,,male,posterior torso,NV,0,3
+macro-0290,images/Gzl/gzl79.jpg,,male,posterior torso,NV,0,4
+macro-0291,images/Gzl/gzl83.jpg,,male,posterior torso,NV,0,2
+macro-0292,images/Gzl/gzl85.jpg,,female,posterior torso,NV,0,4
+macro-0293,images/Gzl/gzl31.jpg,,female,anterior torso,NV,0,0
+macro-0294,images/Gzl/gzl33.jpg,,female,anterior torso,NV,0,3
+macro-0295,images/Gzl/gzl35.jpg,,male,anterior torso,NV,0,0
+macro-0296,images/Gzl/gzl53.jpg,,male,anterior torso,NV,0,4
+macro-0297,images/Gal/Gal231.jpg,,male,posterior torso,NV,0,4
+macro-0298,images/Gal/Gal009.jpg,,male,posterior torso,NV,0,1
+macro-0299,images/Gal/Gal015.jpg,,male,posterior torso,NV,0,3
+macro-0300,images/Gal/Gal024.jpg,,female,posterior torso,NV,0,2
+macro-0301,images/Gal/Gal044.jpg,,male,posterior torso,NV,0,2
+macro-0302,images/Gal/Gal046.jpg,,male,posterior torso,NV,0,2
+macro-0303,images/Gal/Gal048.jpg,,male,posterior torso,NV,0,1
+macro-0304,images/Gal/Gal042.jpg,,male,posterior torso,NV,0,1
+macro-0305,images/Gal/Gal005.jpg,,female,posterior torso,NV,0,3
+macro-0306,images/Gal/Gal057.jpg,,male,posterior torso,NV,0,0
+macro-0307,images/Gal/Gal229.jpg,,female,posterior torso,NV,0,1
+macro-0308,images/Gal/Gal151.jpg,,female,anterior torso,NV,0,0
+macro-0309,images/FAL/Fal019.jpg,,female,lower extremity,NV,0,2
+macro-0310,images/FAL/Fal023.jpg,,male,anterior torso,NV,0,1
+macro-0311,images/FAL/Fal035.jpg,,female,posterior torso,NV,0,0
+macro-0312,images/FAL/Fal037.jpg,,female,lower extremity,NV,0,2
+macro-0313,images/FAL/Fal041.jpg,,female,posterior torso,NV,0,2
+macro-0314,images/FAL/Fal043.jpg,,female,posterior torso,NV,0,3
+macro-0315,images/FAL/Fal049.jpg,,male,anterior torso,NV,0,2
+macro-0316,images/FAL/Fal053.jpg,,male,posterior torso,NV,0,1
+macro-0317,images/FAL/Fal063.jpg,,female,anterior torso,NV,0,2
+macro-0318,images/FAL/Fal071.jpg,,female,anterior torso,NV,0,4
+macro-0319,images/FAL/Fal089.jpg,,male,anterior torso,NV,0,2
+macro-0320,images/FAL/Fal099.jpg,,female,lower extremity,NV,0,0
+macro-0321,images/FBL/Fbl001.jpg,,female,anterior torso,NV,0,1
+macro-0322,images/FBL/FBL003.JPG,,female,anterior torso,NV,0,3
+macro-0323,images/FBL/Fbl005.jpg,,male,anterior torso,NV,0,2
+macro-0324,images/FBL/FBL009.JPG,,male,posterior torso,NV,0,2
+macro-0325,images/FBL/Fbl011.jpg,,female,lower extremity,NV,0,3
+macro-0326,images/Fll/Fll018.jpg,,male,posterior torso,NV,0,0
+macro-0327,images/Fll/Fll020.jpg,,female,lower extremity,NV,0,0
+macro-0328,images/FBL/Fbl021.jpg,,female,lower extremity,NV,0,2
+macro-0329,images/FBL/Fbl023.jpg,,female,lower extremity,NV,0,3
+macro-0330,images/Fll/Fll022.jpg,,male,posterior torso,NV,0,3
+macro-0331,images/FBL/Fbl035.jpg,,female,lower extremity,NV,0,0
+macro-0332,images/FBL/Fbl037.jpg,,female,posterior torso,NV,0,0
+macro-0333,images/FBL/FBL043.JPG,,female,anterior torso,NV,0,1
+macro-0334,images/FBL/FBL047.JPG,,male,palms/soles,NV,0,4
+macro-0335,images/FBL/Fbl053.jpg,,female,posterior torso,NV,0,0
+macro-0336,images/FBL/Fbl055.jpg,,male,anterior torso,NV,0,3
+macro-0337,images/FBL/FBL061.JPG,,female,anterior torso,NV,0,3
+macro-0338,images/FBL/Fbl063.jpg,,female,anterior torso,NV,0,4
+macro-0339,images/FBL/Fbl067.jpg,,female,upper extremity,NV,0,3
+macro-0340,images/FBL/FBL071.JPG,,male,lower extremity,NV,0,3
+macro-0341,images/FBL/Fbl073.jpg,,male,posterior torso,NV,0,1
+macro-0342,images/FBL/Fbl075.jpg,,female,posterior torso,NV,0,0
+macro-0343,images/FBL/Fbl079.jpg,,female,posterior torso,NV,0,3
+macro-0344,images/FBL/Fbl087.jpg,,female,lower extremity,NV,0,2
+macro-0345,images/FBL/Fbl089.jpg,,male,lower extremity,NV,0,0
+macro-0346,images/FBL/Fbl091.jpg,,male,head/neck,NV,0,1
+macro-0347,images/FBL/Fbl093.jpg,,female,upper extremity,NV,0,0
+macro-0348,images/FBL/Fbl097.jpg,,female,lower extremity,NV,0,1
+macro-0349,images/Fll/Fll034.jpg,,male,posterior torso,NV,0,2
+macro-0350,images/Fll/Fll036.jpg,,male,posterior torso,NV,0,0
+macro-0351,images/Fll/Fll038.jpg,,male,posterior torso,NV,0,1
+macro-0352,images/FCL/Fcl009.jpg,,female,posterior torso,NV,0,4
+macro-0353,images/FCL/FCL011.JPG,,female,palms/soles,NV,0,3
+macro-0354,images/FCL/Fcl013.jpg,,female,posterior torso,NV,0,1
+macro-0355,images/FCL/FCL017.JPG,,male,posterior torso,NV,0,4
+macro-0356,images/Fll/Fll040.jpg,,male,posterior torso,NV,0,2
+macro-0357,images/FCL/FCL023.JPG,,female,posterior torso,NV,0,2
+macro-0358,images/FCL/Fcl027.jpg,,male,posterior torso,NV,0,4
+macro-0359,images/FCL/Fcl029.jpg,,female,anterior torso,NV,0,0
+macro-0360,images/FCL/FCL031.JPG,,female,posterior torso,NV,0,2
+macro-0361,images/FCL/Fcl033.jpg,,female,posterior torso,NV,0,1
+macro-0362,images/FCL/Fcl035.jpg,,male,anterior torso,NV,0,3
+macro-0363,images/FCL/FCL037.JPG,,male,anterior torso,NV,0,1
+macro-0364,images/Fll/Fll042.jpg,,male,posterior torso,NV,0,2
+macro-0365,images/FCL/FCL047.JPG,,female,posterior torso,NV,0,1
+macro-0366,images/FCL/Fcl049.jpg,,male,posterior torso,NV,0,1
+macro-0367,images/FCL/Fcl051.jpg,,male,anterior torso,NV,0,2
+macro-0368,images/FCL/Fcl065.jpg,,male,posterior torso,NV,0,3
+macro-0369,images/FCL/FCL069.JPG,,female,lower extremity,NV,0,4
+macro-0370,images/FCL/FCL075.JPG,,female,posterior torso,NV,0,3
+macro-0371,images/FCL/Fcl079.jpg,,female,anterior torso,NV,0,0
+macro-0372,images/FCL/FCL089.JPG,,male,anterior torso,NV,0,3
+macro-0373,images/FCL/FCL093.JPG,,male,lower extremity,NV,0,0
+macro-0374,images/FCL/Fcl095.jpg,,female,anterior torso,NV,0,3
+macro-0375,images/FCL/Fcl097.jpg,,male,lower extremity,NV,0,1
+macro-0376,images/FEL/FEL001.JPG,,female,posterior torso,NV,0,1
+macro-0377,images/FEL/Fel015.jpg,,male,anterior torso,NV,0,3
+macro-0378,images/FEL/Fel017.jpg,,female,lower extremity,NV,0,4
+macro-0379,images/FEL/Fel023.jpg,,male,posterior torso,NV,0,4
+macro-0380,images/FEL/Fel029.jpg,,male,anterior torso,NV,0,1
+macro-0381,images/FEL/Fel033.jpg,,female,anterior torso,NV,0,4
+macro-0382,images/FEL/Fel051.jpg,,male,posterior torso,NV,0,3
+macro-0383,images/FEL/Fel063.jpg,,female,anterior torso,NV,0,3
+macro-0384,images/FEL/Fel067.jpg,,female,posterior torso,NV,0,3
+macro-0385,images/FEL/Fel069.jpg,,female,anterior torso,NV,0,0
+macro-0386,images/FEL/Fel071.jpg,,male,posterior torso,NV,0,3
+macro-0387,images/FEL/Fel081.jpg,,male,upper extremity,NV,0,0
+macro-0388,images/FEL/Fel083.jpg,,female,lower extremity,NV,0,1
+macro-0389,images/FEL/Fel085.jpg,,male,lower extremity,NV,0,2
+macro-0390,images/FEL/Fel087.jpg,,male,anterior torso,NV,0,2
+macro-0391,images/FEL/Fel095.jpg,,female,anterior torso,NV,0,3
+macro-0392,images/FEL/Fel099.jpg,,male,posterior torso,NV,0,0
+macro-0393,images/FFL/Ffl001.jpg,,male,upper extremity,NV,0,0
+macro-0394,images/FFL/Ffl003.jpg,,female,posterior torso,NV,0,3
+macro-0395,images/FFL/Ffl005.jpg,,female,anterior torso,NV,0,4
+macro-0396,images/FFL/Ffl007.jpg,,female,anterior torso,NV,0,3
+macro-0397,images/FFL/Ffl009.jpg,,male,anterior torso,NV,0,2
+macro-0398,images/FFL/Ffl013.jpg,,female,anterior torso,NV,0,4
+macro-0399,images/FFL/Ffl015.jpg,,female,anterior torso,NV,0,2
+macro-0400,images/FFL/Ffl031.jpg,,male,posterior torso,NV,0,1
+macro-0401,images/FFL/Ffl065.jpg,,male,palms/soles,NV,0,2
+macro-0402,images/FFL/Ffl077.jpg,,female,anterior torso,NV,0,4
+macro-0403,images/FFL/Ffl081.jpg,,female,posterior torso,NV,0,4
+macro-0404,images/FFL/Ffl099.jpg,,female,upper extremity,NV,0,4
+macro-0405,images/FDL/Fdl001.jpg,,female,lower extremity,NV,0,0
+macro-0406,images/FDL/Fdl019.jpg,,male,lower extremity,NV,0,3
+macro-0407,images/Fll/Fll064.jpg,,female,posterior torso,NV,0,2
+macro-0408,images/FDL/Fdl027.jpg,,male,head/neck,NV,0,1
+macro-0409,images/FDL/Fdl029.jpg,,female,head/neck,NV,0,4
+macro-0410,images/FDL/Fdl053.jpg,,female,upper extremity,NV,0,3
+macro-0411,images/Fll/Fll082.jpg,,female,anterior torso,NV,0,1
+macro-0412,images/Fgl/Fgl001.jpg,,female,anterior torso,NV,0,4
+macro-0413,images/Gcl/Gcl072.jpg,,female,anterior torso,NV,0,4
+macro-0414,images/Ggl/Ggl023.jpg,,male,posterior torso,NV,0,1
+macro-0415,images/Ggl/Ggl051.jpg,,male,posterior torso,NV,0,3
+macro-0416,images/Ggl/Ggl059.jpg,,male,anterior torso,NV,0,3
+macro-0417,images/Ggl/Ggl061.jpg,,male,anterior torso,NV,0,2
+macro-0418,images/Ggl/Ggl033.jpg,,male,palms/soles,NV,0,3
+macro-0419,images/Ggl/Ggl073.jpg,,male,lower extremity,NV,0,1
+macro-0420,images/Ggl/Ggl075.jpg,,male,anterior torso,NV,0,4
+macro-0421,images/Ggl/Ggl077.jpg,,male,posterior torso,NV,0,0
+macro-0422,images/Ggl/Ggl087.jpg,,female,anterior torso,NV,0,1
+macro-0423,images/Fgl/Fgl003.jpg,,female,posterior torso,NV,0,2
+macro-0424,images/Fgl/Fgl009.jpg,,male,posterior torso,NV,0,3
+macro-0425,images/Fgl/Fgl022.jpg,,male,posterior torso,NV,0,0
+macro-0426,images/Fgl/Fgl011.jpg,,male,posterior torso,NV,0,3
+macro-0427,images/Fgl/Fgl013.jpg,,male,posterior torso,NV,0,2
+macro-0428,images/Fll/Fll086.jpg,,female,upper extremity,NV,0,2
+macro-0429,images/Fgl/Fgl040.jpg,,female,posterior torso,NV,0,2
+macro-0430,images/Fll/Fll090.jpg,,male,posterior torso,NV,0,4
+macro-0431,images/Fgl/Fgl041.jpg,,male,posterior torso,NV,0,1
+macro-0432,images/Fgl/Fgl046.jpg,,male,posterior torso,NV,0,1
+macro-0433,images/Fgl/Fgl050.jpg,,male,anterior torso,NV,0,1
+macro-0434,images/Fgl/Fgl054.jpg,,female,anterior torso,NV,0,2
+macro-0435,images/Fgl/Fgl069.jpg,,male,posterior torso,NV,0,2
+macro-0436,images/Fgl/Fgl071.jpg,,male,posterior torso,NV,0,3
+macro-0437,images/Fgl/Fgl077.jpg,,male,posterior torso,NV,0,3
+macro-0438,images/Fhl/Fhl029.jpg,,female,palms/soles,NV,0,4
+macro-0439,images/Fhl/Fhl031.jpg,,female,upper extremity,NV,0,3
+macro-0440,images/Fhl/Fhl033.jpg,,female,anterior torso,NV,0,4
+macro-0441,images/Fhl/Fhl037.jpg,,male,lower extremity,NV,0,4
+macro-0442,images/Fhl/Fhl039.jpg,,female,lower extremity,NV,0,1
+macro-0443,images/Fhl/Fhl041.jpg,,male,posterior torso,NV,0,3
+macro-0444,images/Fhl/Fhl063.jpg,,male,posterior torso,NV,0,3
+macro-0445,images/Fhl/Fhl065.jpg,,male,posterior torso,NV,0,1
+macro-0446,images/Fhl/Fhl069.jpg,,male,anterior torso,NV,0,2
+macro-0447,images/Fhl/Fhl071.jpg,,male,posterior torso,NV,0,0
+macro-0448,images/Fhl/Fhl073.jpg,,male,posterior torso,NV,0,1
+macro-0449,images/Fhl/Fhl075.jpg,,male,anterior torso,NV,0,1
+macro-0450,images/Fhl/Fhl077.jpg,,male,posterior torso,NV,0,4
+macro-0451,images/Fhl/Fhl079.jpg,,male,posterior torso,NV,0,3
+macro-0452,images/Fhl/Fhl081.jpg,,male,posterior torso,NV,0,4
+macro-0453,images/Fhl/Fhl083.jpg,,male,anterior torso,NV,0,4
+macro-0454,images/Fhl/Fhl085.jpg,,male,anterior torso,NV,0,3
+macro-0455,images/Fhl/Fhl087.jpg,,male,posterior torso,NV,0,4
+macro-0456,images/Fhl/Fhl089.jpg,,male,anterior torso,NV,0,3
+macro-0457,images/Fhl/Fhl091.jpg,,male,posterior torso,NV,0,3
+macro-0458,images/Fhl/Fhl093.jpg,,male,anterior torso,NV,0,3
+macro-0459,images/Fhl/Fhl095.jpg,,male,posterior torso,NV,0,2
+macro-0460,images/Fhl/Fhl097.jpg,,male,posterior torso,NV,0,2
+macro-0461,images/Fhl/Fhl099.jpg,,male,posterior torso,NV,0,4
+macro-0462,images/Fll/Fll141.jpg,,female,posterior torso,NV,0,3
+macro-0463,images/Fil/Fil061.jpg,,female,posterior torso,NV,0,0
+macro-0464,images/Fml/Fml009.jpg,,female,posterior torso,NV,0,1
+macro-0465,images/Fml/Fml019.jpg,,female,anterior torso,NV,0,3
+macro-0466,images/Fil/Fil087.jpg,,female,lower extremity,NV,0,4
+macro-0467,images/Fil/Fil093.jpg,,male,posterior torso,NV,0,4
+macro-0468,images/NML/Nml066.jpg,,male,anterior torso,NV,0,3
+macro-0469,images/NLL/Nll023.jpg,,female,anterior torso,NV,0,2
+macro-0470,images/NEL/Nel013.jpg,,male,anterior torso,NV,0,1
+macro-0471,images/NFL/Nfl033.jpg,,male,anterior torso,NV,0,4
+macro-0472,images/NGL/Ngl085.jpg,,male,anterior torso,NV,0,2
+macro-0473,images/NGL/Ngl097.jpg,,female,anterior torso,NV,0,2
+macro-0474,images/NML/Nml044.jpg,,male,upper extremity,NV,0,3
+macro-0475,images/NML/Nml046.jpg,,male,posterior torso,NV,0,1
+macro-0476,images/A3l/Acl284.jpg,,male,posterior torso,NV,0,2
+macro-0477,images/Gal/Gal215.jpg,,female,upper extremity,NV,0,1
+macro-0478,images/Gal/Gal217.jpg,,female,upper extremity,NV,0,3
+macro-0479,images/FAL/Fal021.jpg,,male,posterior torso,NV,0,1
+macro-0480,images/FDL/Fdl061.jpg,,male,anterior torso,NV,0,4
+macro-0481,images/Gdl/Gdl099.jpg,,male,posterior torso,NV,0,2
+macro-0482,images/Ggl/Ggl089.jpg,,female,upper extremity,NV,0,2
+macro-0483,images/NCL/Ncl026.jpg,,female,lower extremity,NV,0,1
+macro-0484,images/NCL/Ncl072.jpg,,male,anterior torso,NV,0,1
+macro-0485,images/NCL/Ncl099.jpg,,male,posterior torso,NV,0,4
+macro-0486,images/NEL/NEL009.JPG,,female,anterior torso,NV,0,3
+macro-0487,images/NEL/NEL011.JPG,,female,anterior torso,NV,0,3
+macro-0488,images/NFL/Nfl035.jpg,,female,lower extremity,NV,0,1
+macro-0489,images/NML/Nml038.jpg,,male,anterior torso,NV,0,1
+macro-0490,images/A2l/Abl192.jpg,,male,posterior torso,NV,0,4
+macro-0491,images/Adl/Adl376.jpg,,male,posterior torso,NV,0,3
+macro-0492,images/Ael/Ael474.jpg,,male,lower extremity,NV,0,1
+macro-0493,images/A2l/Abl182.jpg,,male,lower extremity,NV,0,2
+macro-0494,images/Gal/Gal061.jpg,,male,upper extremity,NV,0,3
+macro-0495,images/FFL/Ffl061.jpg,,female,posterior torso,NV,0,2
+macro-0496,images/FFL/Ffl095.jpg,,female,posterior torso,NV,0,4
+macro-0497,images/FDL/Fdl015.jpg,,female,upper extremity,NV,0,0
+macro-0498,images/FDL/Fdl021.jpg,,female,lower extremity,NV,0,0
+macro-0499,images/Ggl/Ggl001.jpg,,male,lower extremity,NV,0,4
+macro-0500,images/NBL/Nbl079.jpg,,male,head/neck,NV,0,4
+macro-0501,images/NEL/Nel006.jpg,,female,posterior torso,NV,0,1
+macro-0502,images/NFL/Nfl041.jpg,,female,upper extremity,NV,0,3
+macro-0503,images/NFL/Nfl043.jpg,,female,head/neck,NV,0,0
+macro-0504,images/NLL/Nll037.jpg,,male,head/neck,NV,0,0
+macro-0505,images/NLL/Nll039.jpg,,female,head/neck,NV,0,1
+macro-0506,images/NLL/NLL047.JPG,,female,upper extremity,NV,0,0
+macro-0507,images/NLL/Nll049.jpg,,female,anterior torso,NV,0,2
+macro-0508,images/NLL/Nll051.jpg,,male,upper extremity,NV,0,0
+macro-0509,images/NLL/Nll055.jpg,,male,anterior torso,NV,0,2
+macro-0510,images/NLL/Nll057.jpg,,female,anterior torso,NV,0,1
+macro-0511,images/NLL/Nll087.jpg,,female,head/neck,NV,0,2
+macro-0512,images/NML/Nml031.jpg,,female,upper extremity,NV,0,1
+macro-0513,images/NML/Nml050.jpg,,male,posterior torso,NV,0,0
+macro-0514,images/NML/Nml062.jpg,,female,head/neck,NV,0,0
+macro-0515,images/NML/Nml064.jpg,,male,anterior torso,NV,0,0
+macro-0516,images/A2l/Abl188.jpg,,female,posterior torso,NV,0,1
+macro-0517,images/A3l/Acl202.jpg,,female,anterior torso,NV,0,1
+macro-0518,images/A3l/Acl262.jpg,,female,anterior torso,NV,0,2
+macro-0519,images/Adl/Adl330.jpg,,female,anterior torso,NV,0,4
+macro-0520,images/Adl/Adl337.jpg,,female,anterior torso,NV,0,4
+macro-0521,images/Ael/Ael520.jpg,,female,anterior torso,NV,0,1
+macro-0522,images/Gzl/gzl67.jpg,,male,head/neck,NV,0,4
+macro-0523,images/Gzl/gzl51.jpg,,male,anterior torso,NV,0,0
+macro-0524,images/Gal/Gal032.jpg,,male,anterior torso,NV,0,0
+macro-0525,images/FBL/Fbl029.jpg,,female,upper extremity,NV,0,2
+macro-0526,images/FFL/Ffl041.jpg,,female,anterior torso,NV,0,4
+macro-0527,images/Ggl/Ggl007.jpg,,female,lower extremity,NV,0,3
+macro-0528,images/Ggl/Ggl041.jpg,,female,head/neck,NV,0,4
+macro-0529,images/Ggl/Ggl043.jpg,,male,anterior torso,NV,0,1
+macro-0530,images/Fgl/Fgl007.jpg,,female,posterior torso,NV,0,4
+macro-0531,images/Fgl/Fgl019.jpg,,male,anterior torso,NV,0,4
+macro-0532,images/Fll/Fll088.jpg,,male,posterior torso,NV,0,0
+macro-0533,images/NFL/Nfl003.jpg,,female,lower extremity,UNK,0,4
+macro-0534,images/A1l/Aal013.jpg,,female,lower extremity,UNK,0,2
+macro-0535,images/A1l/Aal017.jpg,,female,upper extremity,UNK,0,2
+macro-0536,images/A1l/Aal019.jpg,,male,lower extremity,UNK,0,2
+macro-0537,images/A2l/Abl196.jpg,,female,lower extremity,UNK,0,0
+macro-0538,images/A3l/Acl208.jpg,,female,upper extremity,UNK,0,3
+macro-0539,images/A3l/Acl210.jpg,,male,lower extremity,UNK,0,0
+macro-0540,images/A1l/Aal023.jpg,,male,upper extremity,UNK,0,3
+macro-0541,images/A3l/Acl230.jpg,,female,lower extremity,UNK,0,1
+macro-0542,images/A3l/Acl232.jpg,,female,posterior torso,UNK,0,1
+macro-0543,images/A1l/Aal027.jpg,,male,upper extremity,UNK,0,4
+macro-0544,images/A1l/Aal029.jpg,,female,upper extremity,UNK,0,3
+macro-0545,images/A1l/Aal037.jpg,,female,upper extremity,UNK,0,3
+macro-0546,images/Adl/Adl372.jpg,,female,upper extremity,UNK,0,0
+macro-0547,images/Ael/Ael526.jpg,,male,posterior torso,UNK,0,2
+macro-0548,images/Gal/Gal225.jpg,,female,upper extremity,UNK,0,4
+macro-0549,images/Ggl/Ggl047.jpg,,female,upper extremity,UNK,0,0
+macro-0550,images/Ggl/Ggl055.jpg,,female,lower extremity,UNK,0,3
+macro-0551,images/Ggl/Ggl083.jpg,,male,lower extremity,UNK,0,4
+macro-0552,images/Fhl/Fhl043.jpg,,female,lower extremity,UNK,0,1
+macro-0553,images/NDL/Ndl088.jpg,,female,posterior torso,BKL,0,0
+macro-0554,images/NDL/Ndl099.jpg,,female,posterior torso,BKL,0,1
+macro-0555,images/Adl/Adl382.jpg,,female,anterior torso,BKL,0,3
+macro-0556,images/Adl/Adl384.jpg,,male,upper extremity,BKL,0,2
+macro-0557,images/Adl/Adl386bis.jpg,,male,anterior torso,BKL,0,2
+macro-0558,images/Ael/Ael414.jpg,,female,head/neck,BKL,0,3
+macro-0559,images/Gzl/gzl59.jpg,,male,posterior torso,BKL,0,4
+macro-0560,images/Gzl/gzl47.jpg,,female,head/neck,BKL,0,3
+macro-0561,images/Gal/Gal168.jpg,,male,head/neck,BKL,0,2
+macro-0562,images/Gal/Gal170.jpg,,female,head/neck,BKL,0,2
+macro-0563,images/Ggl/Ggl069.jpg,,female,posterior torso,BKL,0,0
+macro-0564,images/Ggl/Ggl071.jpg,,male,upper extremity,BKL,0,1
+macro-0565,images/Fhl/Fhl018.jpg,,female,anterior torso,BKL,0,4
+macro-0566,images/Fil/Fil063.jpg,,male,anterior torso,BKL,0,1
+macro-0567,images/Fml/Fml025.jpg,,male,upper extremity,BKL,0,4
+macro-0568,images/New/newl005.jpg,,female,upper extremity,BKL,0,2
+macro-0569,images/New/newl007.jpg,,male,upper extremity,BKL,0,3
+macro-0570,images/New/newl009.jpg,,male,posterior torso,BKL,0,0
+macro-0571,images/New/newl011.jpg,,female,head/neck,BKL,0,4
+macro-0572,images/New/newl017.jpg,,male,upper extremity,BKL,0,0
+macro-0573,images/New/newl019.jpg,,male,upper extremity,BKL,0,4
+macro-0574,images/New/newl021.jpg,,male,upper extremity,BKL,0,3
+macro-0575,images/New/newl023.jpg,,male,upper extremity,BKL,0,4
+macro-0576,images/New/newl025.jpg,,male,upper extremity,BKL,0,3
+macro-0577,images/NAL/Nal019.jpg,,female,upper extremity,MEL,1,3
+macro-0578,images/NAL/Nal021.jpg,,female,lower extremity,MEL,1,2
+macro-0579,images/NAL/Nal039.jpg,,male,anterior torso,MEL,1,0
+macro-0580,images/NAL/Nal045.jpg,,male,upper extremity,MEL,1,0
+macro-0581,images/NAL/Nal046.jpg,,female,lower extremity,MEL,1,4
+macro-0582,images/NAL/Nal067.jpg,,male,head/neck,MEL,1,2
+macro-0583,images/NAL/Nal074.jpg,,male,posterior torso,MEL,1,2
+macro-0584,images/NAL/Nal076.jpg,,female,upper extremity,MEL,1,3
+macro-0585,images/NAL/Nal078.jpg,,male,posterior torso,MEL,1,1
+macro-0586,images/NAL/Nal079.jpg,,male,head/neck,MEL,1,4
+macro-0587,images/NAL/Nal081.jpg,,male,head/neck,MEL,1,1
+macro-0588,images/NAL/Nal083.jpg,,male,anterior torso,MEL,1,1
+macro-0589,images/NAL/Nal087.jpg,,female,head/neck,MEL,1,3
+macro-0590,images/NAL/Nal089.jpg,,female,head/neck,MEL,1,3
+macro-0591,images/NAL/Nal051.jpg,,male,head/neck,MEL,1,2
+macro-0592,images/NAL/Nal100.jpg,,male,lower extremity,MEL,1,4
+macro-0593,images/NBL/Nbl002.jpg,,female,posterior torso,MEL,1,4
+macro-0594,images/NBL/Nbl008.jpg,,male,head/neck,MEL,1,1
+macro-0595,images/NBL/Nbl009.jpg,,male,anterior torso,MEL,1,4
+macro-0596,images/NBL/Nbl012.jpg,,male,anterior torso,MEL,1,2
+macro-0597,images/NBL/Nbl014.jpg,,female,posterior torso,MEL,1,4
+macro-0598,images/NBL/Nbl023.jpg,,female,posterior torso,MEL,1,4
+macro-0599,images/NBL/Nbl026.jpg,,female,head/neck,MEL,1,4
+macro-0600,images/NBL/Nbl032.jpg,,male,anterior torso,MEL,1,2
+macro-0601,images/NFL/Nfl053.jpg,,male,head/neck,MEL,1,3
+macro-0602,images/NGL/Ngl001.jpg,,male,anterior torso,MEL,1,3
+macro-0603,images/NGL/NGL009.JPG,,male,anterior torso,MEL,1,3
+macro-0604,images/NGL/Ngl061.jpg,,female,posterior torso,MEL,1,3
+macro-0605,images/NGL/Ngl067.jpg,,male,anterior torso,MEL,1,4
+macro-0606,images/NGL/Ngl083.jpg,,male,head/neck,MEL,1,2
+macro-0607,images/NHL/Nhl008.jpg,,male,anterior torso,MEL,1,0
+macro-0608,images/NIL/Nil030.jpg,,male,upper extremity,MEL,1,2
+macro-0609,images/NIL/Nil079.jpg,,male,lower extremity,MEL,1,2
+macro-0610,images/NIL/Nil083.jpg,,male,posterior torso,MEL,1,2
+macro-0611,images/Adl/Adl300.jpg,,male,posterior torso,MEL,1,2
+macro-0612,images/Ael/Ael495.jpg,,male,posterior torso,MEL,1,4
+macro-0613,images/Gzl/gzl19.jpg,,female,posterior torso,MEL,1,1
+macro-0614,images/Gzl/gzl27.jpg,,male,lower extremity,MEL,1,2
+macro-0615,images/Gal/Gal239.jpg,,male,posterior torso,MEL,1,0
+macro-0616,images/Gal/Gal038.jpg,,female,upper extremity,MEL,1,0
+macro-0617,images/Gal/Gal184.jpg,,female,head/neck,MEL,1,0
+macro-0618,images/FBL/Fbl025.jpg,,female,lower extremity,MEL,1,1
+macro-0619,images/FBL/Fbl027.jpg,,female,upper extremity,MEL,1,0
+macro-0620,images/FCL/FCL021.JPG,,female,head/neck,MEL,1,3
+macro-0621,images/FCL/Fcl039.jpg,,male,posterior torso,MEL,1,4
+macro-0622,images/FCL/Fcl043.jpg,,male,upper extremity,MEL,1,1
+macro-0623,images/FCL/Fcl057.jpg,,male,posterior torso,MEL,1,2
+macro-0624,images/FCL/FCL073.JPG,,female,upper extremity,MEL,1,2
+macro-0625,images/FFL/Ffl079.jpg,,female,lower extremity,MEL,1,2
+macro-0626,images/FDL/Fdl013.jpg,,male,anterior torso,MEL,1,0
+macro-0627,images/FDL/FDL035.JPG,,female,lower extremity,MEL,1,1
+macro-0628,images/Gcl/Gcl001.jpg,,female,posterior torso,MEL,1,1
+macro-0629,images/Gdl/Gdl035.jpg,,male,lower extremity,MEL,1,3
+macro-0630,images/Ggl/Ggl035.jpg,,male,palms/soles,MEL,1,3
+macro-0631,images/Ggl/Ggl067.jpg,,female,posterior torso,MEL,1,3
+macro-0632,images/Fll/Fll084.jpg,,female,posterior torso,MEL,1,3
+macro-0633,images/Fgl/Fgl017.jpg,,male,lower extremity,MEL,1,3
+macro-0634,images/Fgl/Fgl028.jpg,,female,head/neck,MEL,1,0
+macro-0635,images/Fgl/Fgl056.jpg,,female,posterior torso,MEL,1,0
+macro-0636,images/Fil/Fil003.jpg,,male,anterior torso,MEL,1,0
+macro-0637,images/Fll/Fll121.jpg,,female,posterior torso,MEL,1,0
+macro-0638,images/Fil/Fil051.jpg,,male,posterior torso,MEL,1,3
+macro-0639,images/Fil/Fil069.jpg,,female,anterior torso,MEL,1,2
+macro-0640,images/New/newl052.jpg,,male,head/neck,MEL,1,0
+macro-0641,images/NAL/Nal007.jpg,,female,posterior torso,MEL,1,4
+macro-0642,images/NAL/Nal017.jpg,,female,anterior torso,MEL,1,3
+macro-0643,images/NAL/Nal026.jpg,,male,posterior torso,MEL,1,3
+macro-0644,images/NAL/Nal034.jpg,,female,posterior torso,MEL,1,1
+macro-0645,images/NAL/Nal036.jpg,,female,upper extremity,MEL,1,0
+macro-0646,images/NAL/Nal050.jpg,,female,anterior torso,MEL,1,1
+macro-0647,images/NAL/Nal056.jpg,,female,lower extremity,MEL,1,4
+macro-0648,images/NAL/Nal060.jpg,,male,head/neck,MEL,1,0
+macro-0649,images/NAL/Nal065.jpg,,female,posterior torso,MEL,1,1
+macro-0650,images/NAL/Nal068.jpg,,female,lower extremity,MEL,1,3
+macro-0651,images/NAL/NAL085.JPG,,female,lower extremity,MEL,1,0
+macro-0652,images/NAL/Nal092.jpg,,female,anterior torso,MEL,1,4
+macro-0653,images/NAL/Nal096.jpg,,female,lower extremity,MEL,1,3
+macro-0654,images/NAL/nal097bis.jpg,,male,anterior torso,MEL,1,4
+macro-0655,images/NBL/Nbl003.jpg,,male,head/neck,MEL,1,4
+macro-0656,images/NBL/Nbl005.jpg,,female,posterior torso,MEL,1,2
+macro-0657,images/NBL/Nbl018.jpg,,male,anterior torso,MEL,1,1
+macro-0658,images/NBL/NBL021.JPG,,female,anterior torso,MEL,1,0
+macro-0659,images/NBL/Nbl027.jpg,,female,head/neck,MEL,1,4
+macro-0660,images/NBL/Nbl029.jpg,,female,posterior torso,MEL,1,0
+macro-0661,images/NBL/Nbl033.jpg,,male,posterior torso,MEL,1,4
+macro-0662,images/NFL/Nfl062.jpg,,female,posterior torso,MEL,1,3
+macro-0663,images/NFL/Nfl069.jpg,,female,upper extremity,MEL,1,0
+macro-0664,images/NFL/Nfl071.jpg,,female,upper extremity,MEL,1,1
+macro-0665,images/NGL/Ngl007.jpg,,male,posterior torso,MEL,1,4
+macro-0666,images/NGL/Ngl012.jpg,,female,lower extremity,MEL,1,3
+macro-0667,images/NGL/Ngl016.jpg,,female,anterior torso,MEL,1,2
+macro-0668,images/NGL/Ngl018.jpg,,male,posterior torso,MEL,1,0
+macro-0669,images/NGL/Ngl020.jpg,,female,lower extremity,MEL,1,1
+macro-0670,images/NGL/NGL026.JPG,,female,lower extremity,MEL,1,2
+macro-0671,images/NGL/Ngl038.jpg,,male,lower extremity,MEL,1,1
+macro-0672,images/NGL/Ngl054.jpg,,female,anterior torso,MEL,1,0
+macro-0673,images/NGL/Ngl063.jpg,,female,head/neck,MEL,1,3
+macro-0674,images/NGL/Ngl099.jpg,,female,upper extremity,MEL,1,0
+macro-0675,images/NIL/Nil065.jpg,,male,posterior torso,MEL,1,2
+macro-0676,images/NIL/Nil069.jpg,,female,posterior torso,MEL,1,3
+macro-0677,images/NIL/Nil075.jpg,,female,upper extremity,MEL,1,2
+macro-0678,images/NIL/NIL077.JPG,,male,anterior torso,MEL,1,3
+macro-0679,images/NIL/Nil087.jpg,,female,upper extremity,MEL,1,3
+macro-0680,images/NIL/Nil095.jpg,,male,lower extremity,MEL,1,4
+macro-0681,images/NIL/Nil099.jpg,,male,anterior torso,MEL,1,2
+macro-0682,images/NIL/NIL101.JPG,,female,posterior torso,MEL,1,2
+macro-0683,images/NLL/Nll001.jpg,,female,upper extremity,MEL,1,0
+macro-0684,images/NLL/NLL003.JPG,,female,posterior torso,MEL,1,2
+macro-0685,images/NML/nml021bis.jpg,,female,lower extremity,MEL,1,3
+macro-0686,images/NML/Nml076.jpg,,female,posterior torso,MEL,1,3
+macro-0687,images/NML/Nml078.jpg,,male,lower extremity,MEL,1,0
+macro-0688,images/Adl/Adl304.jpg,,female,lower extremity,MEL,1,4
+macro-0689,images/Adl/Adl312.jpg,,male,posterior torso,MEL,1,2
+macro-0690,images/Ael/Ael489.jpg,,female,upper extremity,MEL,1,1
+macro-0691,images/Ael/Ael491.jpg,,female,head/neck,MEL,1,1
+macro-0692,images/Ael/Ael503.jpg,,male,posterior torso,MEL,1,2
+macro-0693,images/Gzl/gzl03.jpg,,female,lower extremity,MEL,1,4
+macro-0694,images/Gzl/gzl15.jpg,,female,posterior torso,MEL,1,4
+macro-0695,images/Gzl/gzl75.jpg,,female,head/neck,MEL,1,0
+macro-0696,images/Gzl/gzl49.jpg,,female,posterior torso,MEL,1,1
+macro-0697,images/Gal/Gal107.jpg,,male,lower extremity,MEL,1,4
+macro-0698,images/Gal/Gal112.jpg,,male,lower extremity,MEL,1,0
+macro-0699,images/Gal/Gal145.jpg,,female,upper extremity,MEL,1,2
+macro-0700,images/Gal/Gal256.jpg,,female,anterior torso,MEL,1,4
+macro-0701,images/Gal/Gal210.jpg,,female,anterior torso,MEL,1,0
+macro-0702,images/FAL/Fal065.jpg,,male,upper extremity,MEL,1,3
+macro-0703,images/FAL/Fal077.jpg,,female,upper extremity,MEL,1,0
+macro-0704,images/FBL/Fbl045.jpg,,female,anterior torso,MEL,1,1
+macro-0705,images/FBL/Fbl049.jpg,,male,posterior torso,MEL,1,4
+macro-0706,images/FBL/Fbl057.jpg,,female,posterior torso,MEL,1,4
+macro-0707,images/Fll/Fll026.jpg,,female,lower extremity,MEL,1,1
+macro-0708,images/FBL/Fbl081.jpg,,female,lower extremity,MEL,1,0
+macro-0709,images/FCL/FCL025.JPG,,male,posterior torso,MEL,1,2
+macro-0710,images/FCL/Fcl059.jpg,,female,upper extremity,MEL,1,4
+macro-0711,images/Fll/Fll044.jpg,,male,posterior torso,MEL,1,0
+macro-0712,images/FCL/Fcl099.jpg,,female,anterior torso,MEL,1,0
+macro-0713,images/FEL/Fel097.jpg,,female,lower extremity,MEL,1,3
+macro-0714,images/FFL/Ffl019.jpg,,female,lower extremity,MEL,1,2
+macro-0715,images/FFL/Ffl091.jpg,,female,lower extremity,MEL,1,1
+macro-0716,images/FFL/Ffl093.jpg,,male,anterior torso,MEL,1,1
+macro-0717,images/Fll/Fll070.jpg,,male,lower extremity,MEL,1,1
+macro-0718,images/FDL/FDL055.JPG,,female,lower extremity,MEL,1,0
+macro-0719,images/Gbl/Gbl006.jpg,,male,posterior torso,MEL,1,3
+macro-0720,images/Gcl/Gcl093.jpg,,female,head/neck,MEL,1,2
+macro-0721,images/Gdl/Gdl013.jpg,,female,lower extremity,MEL,1,4
+macro-0722,images/Gdl/Gdl019.jpg,,female,anterior torso,MEL,1,0
+macro-0723,images/Gdl/Gdl024.jpg,,male,posterior torso,MEL,1,2
+macro-0724,images/Ggl/Ggl049.jpg,,female,anterior torso,MEL,1,4
+macro-0725,images/Ggl/Ggl057.jpg,,male,anterior torso,MEL,1,4
+macro-0726,images/Fll/Fll096.jpg,,male,posterior torso,MEL,1,1
+macro-0727,images/Fgl/Fgl081.jpg,,female,lower extremity,MEL,1,3
+macro-0728,images/Fgl/Fgl085.jpg,,female,lower extremity,MEL,1,2
+macro-0729,images/Fhl/Fhl045.jpg,,male,lower extremity,MEL,1,2
+macro-0730,images/Fll/Fll107.jpg,,male,posterior torso,MEL,1,0
+macro-0731,images/Fil/Fil005.jpg,,female,lower extremity,MEL,1,2
+macro-0732,images/Fll/Fll115.jpg,,male,lower extremity,MEL,1,4
+macro-0733,images/Fll/Fll117.jpg,,female,posterior torso,MEL,1,4
+macro-0734,images/Fil/Fil031.jpg,,female,lower extremity,MEL,1,4
+macro-0735,images/Fll/Fll131.jpg,,female,anterior torso,MEL,1,1
+macro-0736,images/New/newl013.jpg,,female,upper extremity,MEL,1,1
+macro-0737,images/New/newl031.jpg,,male,head/neck,MEL,1,0
+macro-0738,images/New/newl042.jpg,,male,anterior torso,MEL,1,1
+macro-0739,images/New/newl046.jpg,,male,posterior torso,MEL,1,3
+macro-0740,images/New/newl048.jpg,,female,lower extremity,MEL,1,2
+macro-0741,images/New/newl050.jpg,,male,lower extremity,MEL,1,2
+macro-0742,images/New/newl058.jpg,,male,posterior torso,MEL,1,0
+macro-0743,images/NAL/Nal003.jpg,,male,palms/soles,MEL,1,3
+macro-0744,images/NAL/Nal009.jpg,,male,lower extremity,MEL,1,1
+macro-0745,images/NBL/Nbl058.jpg,,male,anterior torso,MEL,1,4
+macro-0746,images/NBL/Nbl061.jpg,,male,lower extremity,MEL,1,2
+macro-0747,images/NBL/Nbl062.jpg,,male,posterior torso,MEL,1,4
+macro-0748,images/NBL/Nbl066.jpg,,male,lower extremity,MEL,1,3
+macro-0749,images/NGL/NGL003.JPG,,female,lower extremity,MEL,1,4
+macro-0750,images/NGL/Ngl024.jpg,,female,lower extremity,MEL,1,1
+macro-0751,images/NGL/Ngl040.jpg,,female,lower extremity,MEL,1,1
+macro-0752,images/NGL/Ngl065.jpg,,male,posterior torso,MEL,1,1
+macro-0753,images/NGL/Ngl087.jpg,,male,lower extremity,MEL,1,0
+macro-0754,images/NIL/NIL063.JPG,,female,anterior torso,MEL,1,1
+macro-0755,images/NIL/Nil067.jpg,,male,upper extremity,MEL,1,4
+macro-0756,images/NIL/Nil081.jpg,,male,posterior torso,MEL,1,3
+macro-0757,images/NIL/Nil089.jpg,,female,upper extremity,MEL,1,0
+macro-0758,images/NIL/Nil092.jpg,,female,lower extremity,MEL,1,3
+macro-0759,images/NLL/Nll013.jpg,,male,anterior torso,MEL,1,2
+macro-0760,images/NML/nml024bis.jpg,,male,lower extremity,MEL,1,3
+macro-0761,images/NML/Nml072.jpg,,male,posterior torso,MEL,1,1
+macro-0762,images/A1l/Aal001.jpg,,male,posterior torso,MEL,1,1
+macro-0763,images/A1l/Aal001bis.jpg,,male,upper extremity,MEL,1,2
+macro-0764,images/Ael/Ael493.jpg,,female,anterior torso,MEL,1,4
+macro-0765,images/Gzl/gzl11.jpg,,male,posterior torso,MEL,1,2
+macro-0766,images/Gzl/gzl25.jpg,,male,anterior torso,MEL,1,0
+macro-0767,images/Gal/Gal219.jpg,,female,upper extremity,MEL,1,2
+macro-0768,images/Gal/Gal261.jpg,,male,posterior torso,MEL,1,4
+macro-0769,images/Gal/Gal208.jpg,,male,anterior torso,MEL,1,1
+macro-0770,images/FAL/Fal005.jpg,,male,posterior torso,MEL,1,4
+macro-0771,images/FAL/Fal093.jpg,,male,posterior torso,MEL,1,1
+macro-0772,images/FBL/Fbl019.jpg,,female,anterior torso,MEL,1,4
+macro-0773,images/FCL/Fcl055.jpg,,female,posterior torso,MEL,1,0
+macro-0774,images/Fll/Fll046.jpg,,male,lower extremity,MEL,1,0
+macro-0775,images/FCL/Fcl083.jpg,,female,upper extremity,MEL,1,2
+macro-0776,images/FCL/Fcl091.jpg,,female,upper extremity,MEL,1,4
+macro-0777,images/FFL/Ffl067.jpg,,female,lower extremity,MEL,1,2
+macro-0778,images/Fll/Fll068.jpg,,female,lower extremity,MEL,1,3
+macro-0779,images/Gbl/Gbl013.jpg,,female,lower extremity,MEL,1,3
+macro-0780,images/Gcl/Gcl057.jpg,,male,posterior torso,MEL,1,3
+macro-0781,images/Gdl/Gdl011.jpg,,female,lower extremity,MEL,1,0
+macro-0782,images/Gdl/Gdl022.jpg,,female,lower extremity,MEL,1,1
+macro-0783,images/Gdl/Gdl033.jpg,,female,lower extremity,MEL,1,4
+macro-0784,images/Gdl/Gdl088.jpg,,female,lower extremity,MEL,1,1
+macro-0785,images/Ggl/Ggl039.jpg,,female,head/neck,MEL,1,0
+macro-0786,images/Ggl/Ggl053.jpg,,male,posterior torso,MEL,1,0
+macro-0787,images/Fgl/Fgl032.jpg,,female,lower extremity,MEL,1,2
+macro-0788,images/Fgl/Fgl060.jpg,,male,upper extremity,MEL,1,3
+macro-0789,images/Fil/Fil009.jpg,,female,lower extremity,MEL,1,3
+macro-0790,images/Fll/Fll125.jpg,,female,lower extremity,MEL,1,0
+macro-0791,images/Fll/Fll127.jpg,,female,lower extremity,MEL,1,4
+macro-0792,images/Fll/Fll129.jpg,,female,anterior torso,MEL,1,3
+macro-0793,images/Fll/Fll135.jpg,,male,posterior torso,MEL,1,0
+macro-0794,images/New/newl044.jpg,,male,posterior torso,MEL,1,0
+macro-0795,images/New/newl054.jpg,,female,lower extremity,MEL,1,2
+macro-0796,images/NBL/Nbl035.jpg,,female,lower extremity,MEL,1,3
+macro-0797,images/NBL/Nbl039.jpg,,female,posterior torso,MEL,1,1
+macro-0798,images/NBL/NBL043.JPG,,female,lower extremity,MEL,1,1
+macro-0799,images/NBL/NBL047.JPG,,male,lower extremity,MEL,1,2
+macro-0800,images/NBL/NBL049.JPG,,male,oral/genital,MEL,1,1
+macro-0801,images/NBL/Nbl055.jpg,,female,anterior torso,MEL,1,4
+macro-0802,images/NBL/Nbl073.jpg,,female,lower extremity,MEL,1,3
+macro-0803,images/NGL/NGL005.JPG,,male,upper extremity,MEL,1,3
+macro-0804,images/NGL/Ngl056.jpg,,male,anterior torso,MEL,1,1
+macro-0805,images/NGL/NGL014.JPG,,female,anterior torso,MEL,1,0
+macro-0806,images/NHL/NHL016.JPG,,male,posterior torso,MEL,1,3
+macro-0807,images/NIL/Nil061.jpg,,male,posterior torso,MEL,1,0
+macro-0808,images/NIL/Nil085.jpg,,female,posterior torso,MEL,1,1
+macro-0809,images/NML/nml019bis.jpg,,male,anterior torso,MEL,1,2
+macro-0810,images/NML/Nml080.jpg,,female,posterior torso,MEL,1,1
+macro-0811,images/Ael/Ael497.jpg,,male,posterior torso,MEL,1,3
+macro-0812,images/Ael/Ael513.jpg,,female,anterior torso,MEL,1,4
+macro-0813,images/Gzl/gzl63.jpg,,male,lower extremity,MEL,1,4
+macro-0814,images/Gzl/gzl77.jpg,,female,posterior torso,MEL,1,0
+macro-0815,images/FCL/FCL053.JPG,,female,upper extremity,MEL,1,1
+macro-0816,images/FCL/FCL067.JPG,,female,lower extremity,MEL,1,2
+macro-0817,images/FDL/Fdl051.jpg,,male,anterior torso,MEL,1,2
+macro-0818,images/Gcl/Gcl038.jpg,,female,lower extremity,MEL,1,1
+macro-0819,images/Gcl/Gcl051.jpg,,male,anterior torso,MEL,1,2
+macro-0820,images/Fgl/Fgl043.jpg,,male,posterior torso,MEL,1,1
+macro-0821,images/Fil/Fil007.jpg,,female,lower extremity,MEL,1,3
+macro-0822,images/Fil/Fil039.jpg,,female,upper extremity,MEL,1,4
+macro-0823,images/New/newl035.jpg,,male,upper extremity,MEL,1,3
+macro-0824,images/NBL/NBL041.JPG,,male,anterior torso,MEL,1,0
+macro-0825,images/NBL/Nbl045.jpg,,female,lower extremity,MEL,1,1
+macro-0826,images/FCL/Fcl015.jpg,,male,palms/soles,MEL,1,1
+macro-0827,images/NBL/Nbl042.jpg,,male,anterior torso,MEL,1,4
+macro-0828,images/NDL/Ndl090.jpg,,female,oral/genital,BKL,0,3
+macro-0829,images/NDL/Ndl095.jpg,,male,head/neck,BKL,0,1
+macro-0830,images/NFL/Nfl037.jpg,,male,head/neck,BKL,0,2
+macro-0831,images/Gzl/gzl71.jpg,,female,head/neck,BKL,0,2
+macro-0832,images/Gal/Gal007.jpg,,female,head/neck,BKL,0,0
+macro-0833,images/Fgl/Fgl059.jpg,,female,oral/genital,BKL,0,4
+macro-0834,images/Fhl/Fhl002.jpg,,female,oral/genital,BKL,0,4
+macro-0835,images/Fhl/Fhl003.jpg,,male,oral/genital,BKL,0,4
+macro-0836,images/Fhl/Fhl005.jpg,,female,oral/genital,BKL,0,0
+macro-0837,images/Fhl/Fhl007.jpg,,male,head/neck,BKL,0,0
+macro-0838,images/Fhl/Fhl009.jpg,,female,head/neck,BKL,0,1
+macro-0839,images/Fhl/Fhl012.jpg,,female,oral/genital,BKL,0,2
+macro-0840,images/Fhl/Fhl013.jpg,,female,head/neck,BKL,0,2
+macro-0841,images/Fhl/Fhl015.jpg,,male,oral/genital,BKL,0,2
+macro-0842,images/Fhl/Fhl021.jpg,,female,head/neck,BKL,0,2
+macro-0843,images/Fhl/Fhl027.jpg,,female,head/neck,BKL,0,4
+macro-0844,images/NEL/Nel050.jpg,,female,lower extremity,UNK,0,1
+macro-0845,images/FBL/Fbl065.jpg,,female,lower extremity,UNK,0,2
+macro-0846,images/FFL/Ffl025.jpg,,female,anterior torso,UNK,0,3
+macro-0847,images/FDL/Fdl067.jpg,,male,lower extremity,UNK,0,1
+macro-0848,images/New/newl001.jpg,,male,head/neck,UNK,0,4
+macro-0849,images/New/newl027.jpg,,male,head/neck,UNK,0,0
+macro-0850,images/New/newl040.jpg,,female,lower extremity,UNK,0,2
+macro-0851,images/NEL/Nel051.jpg,,female,lower extremity,UNK,0,4
+macro-0852,images/NDL/ndl085bis.jpg,,male,posterior torso,NV,0,4
+macro-0853,images/NFL/Nfl073.jpg,,female,posterior torso,NV,0,4
+macro-0854,images/NML/Nml003.jpg,,female,anterior torso,NV,0,1
+macro-0855,images/NML/Nml070.jpg,,female,anterior torso,NV,0,3
+macro-0856,images/Gzl/gzl81.jpg,,male,posterior torso,NV,0,2
+macro-0857,images/FEL/Fel091.jpg,,female,anterior torso,NV,0,3
+macro-0858,images/NDL/Ndl076.jpg,,male,upper extremity,NV,0,3
+macro-0859,images/NBL/Nbl087.jpg,,female,lower extremity,NV,0,2
+macro-0860,images/NBL/Nbl099.jpg,,male,lower extremity,NV,0,1
+macro-0861,images/NCL/Ncl019.jpg,,female,lower extremity,NV,0,0
+macro-0862,images/NCL/Ncl033.jpg,,male,lower extremity,NV,0,2
+macro-0863,images/NCL/NCL077.JPG,,male,lower extremity,NV,0,1
+macro-0864,images/NCL/Ncl094.jpg,,female,lower extremity,NV,0,4
+macro-0865,images/NCL/Ncl096.jpg,,male,anterior torso,NV,0,3
+macro-0866,images/NDL/Ndl045.jpg,,male,head/neck,NV,0,0
+macro-0867,images/NDL/NDL049.JPG,,female,posterior torso,NV,0,1
+macro-0868,images/NDL/Ndl051.jpg,,female,upper extremity,NV,0,3
+macro-0869,images/NDL/NDL053.JPG,,female,anterior torso,NV,0,4
+macro-0870,images/NDL/Ndl055.jpg,,female,lower extremity,NV,0,4
+macro-0871,images/NDL/Ndl057.jpg,,male,lower extremity,NV,0,1
+macro-0872,images/NDL/Ndl059.jpg,,female,posterior torso,NV,0,3
+macro-0873,images/NDL/NDL062.JPG,,male,head/neck,NV,0,1
+macro-0874,images/NDL/NDL064.JPG,,female,lower extremity,NV,0,0
+macro-0875,images/NDL/Ndl067.jpg,,female,lower extremity,NV,0,3
+macro-0876,images/NDL/Ndl070.jpg,,male,anterior torso,NV,0,4
+macro-0877,images/NDL/Ndl072.jpg,,male,lower extremity,NV,0,0
+macro-0878,images/NDL/Ndl073.jpg,,female,lower extremity,NV,0,0
+macro-0879,images/NDL/Ndl080.jpg,,female,upper extremity,NV,0,1
+macro-0880,images/NDL/Ndl082.jpg,,male,posterior torso,NV,0,1
+macro-0881,images/NDL/Ndl084.jpg,,female,lower extremity,NV,0,0
+macro-0882,images/NGL/Ngl028.jpg,,female,upper extremity,NV,0,4
+macro-0883,images/NGL/Ngl030.jpg,,female,lower extremity,NV,0,2
+macro-0884,images/NGL/Ngl032.jpg,,female,lower extremity,NV,0,4
+macro-0885,images/NGL/Ngl036.jpg,,female,upper extremity,NV,0,3
+macro-0886,images/NGL/Ngl059.jpg,,female,lower extremity,NV,0,2
+macro-0887,images/NGL/Ngl077.jpg,,male,upper extremity,NV,0,3
+macro-0888,images/NIL/Nil003.jpg,,female,lower extremity,NV,0,3
+macro-0889,images/NIL/Nil022.jpg,,male,lower extremity,NV,0,4
+macro-0890,images/NIL/Nil028.jpg,,female,lower extremity,NV,0,1
+macro-0891,images/NIL/Nil040.jpg,,female,lower extremity,NV,0,0
+macro-0892,images/NIL/Nil057.jpg,,male,posterior torso,NV,0,4
+macro-0893,images/NLL/Nll099.jpg,,female,anterior torso,NV,0,1
+macro-0894,images/NML/NML009.JPG,,male,lower extremity,NV,0,2
+macro-0895,images/NML/NML011.JPG,,female,posterior torso,NV,0,4
+macro-0896,images/NML/NML015.JPG,,female,lower extremity,NV,0,0
+macro-0897,images/NML/Nml048.jpg,,male,lower extremity,NV,0,0
+macro-0898,images/NML/NML091.jpg,,male,upper extremity,NV,0,1
+macro-0899,images/NML/Nml093.jpg,,male,palms/soles,NV,0,0
+macro-0900,images/NML/Nml095.jpg,,male,upper extremity,NV,0,4
+macro-0901,images/Ael/Ael420.jpg,,male,lower extremity,NV,0,3
+macro-0902,images/A3l/Acl206.jpg,,male,lower extremity,NV,0,1
+macro-0903,images/A3l/Acl224.jpg,,female,upper extremity,NV,0,1
+macro-0904,images/A3l/Acl294.jpg,,male,posterior torso,NV,0,0
+macro-0905,images/Adl/Adl357.jpg,,female,lower extremity,NV,0,2
+macro-0906,images/Adl/Adl394.jpg,,female,lower extremity,NV,0,2
+macro-0907,images/Adl/Adl398.jpg,,male,upper extremity,NV,0,2
+macro-0908,images/Ael/Ael400.jpg,,male,posterior torso,NV,0,4
+macro-0909,images/Ael/Ael404.jpg,,male,upper extremity,NV,0,3
+macro-0910,images/Ael/Ael406.jpg,,female,lower extremity,NV,0,2
+macro-0911,images/Ael/Ael464.jpg,,female,posterior torso,NV,0,2
+macro-0912,images/Ael/Ael483.jpg,,male,anterior torso,NV,0,1
+macro-0913,images/Gzl/gzl57.jpg,,female,lower extremity,NV,0,1
+macro-0914,images/Gzl/gzl13.jpg,,female,upper extremity,NV,0,3
+macro-0915,images/Gal/Gal190.jpg,,female,lower extremity,NV,0,4
+macro-0916,images/Gal/Gal221.jpg,,female,lower extremity,NV,0,0
+macro-0917,images/Gal/Gal237.jpg,,male,upper extremity,NV,0,3
+macro-0918,images/FAL/Fal069.jpg,,female,posterior torso,NV,0,0
+macro-0919,images/FBL/Fbl017.jpg,,female,lower extremity,NV,0,4
+macro-0920,images/FBL/Fbl039.jpg,,male,upper extremity,NV,0,0
+macro-0921,images/FBL/Fbl041.jpg,,female,lower extremity,NV,0,1
+macro-0922,images/FEL/Fel037.jpg,,male,lower extremity,NV,0,0
+macro-0923,images/FEL/Fel073.jpg,,female,lower extremity,NV,0,4
+macro-0924,images/FEL/Fel079.jpg,,male,anterior torso,NV,0,3
+macro-0925,images/FFL/Ffl033.jpg,,female,head/neck,NV,0,3
+macro-0926,images/FFL/Ffl083.jpg,,male,lower extremity,NV,0,3
+macro-0927,images/Fll/Fll076.jpg,,female,posterior torso,NV,0,0
+macro-0928,images/Ggl/Ggl025.jpg,,male,upper extremity,NV,0,2
+macro-0929,images/Ggl/Ggl009.jpg,,male,lower extremity,NV,0,4
+macro-0930,images/Fgl/Fgl025.jpg,,female,anterior torso,NV,0,3
+macro-0931,images/Fgl/Fgl031.jpg,,female,posterior torso,NV,0,2
+macro-0932,images/Fgl/Fgl073.jpg,,female,anterior torso,NV,0,0
+macro-0933,images/Fgl/Fgl091.jpg,,female,lower extremity,NV,0,2
+macro-0934,images/New/newl029.jpg,,female,upper extremity,NV,0,3
+macro-0935,images/New/newl033.jpg,,female,upper extremity,NV,0,2
+macro-0936,images/New/newl038.jpg,,female,lower extremity,NV,0,1
+macro-0937,images/NEL/NEL022.JPG,,male,posterior torso,BKL,0,1
+macro-0938,images/NEL/Nel024.jpg,,male,anterior torso,BKL,0,4
+macro-0939,images/NFL/Nfl005.jpg,,male,posterior torso,BKL,0,4
+macro-0940,images/NFL/Nfl007.jpg,,female,posterior torso,BKL,0,3
+macro-0941,images/NFL/Nfl009.jpg,,male,head/neck,BKL,0,1
+macro-0942,images/NFL/Nfl011.jpg,,male,posterior torso,BKL,0,1
+macro-0943,images/NFL/NFL013.JPG,,female,anterior torso,BKL,0,3
+macro-0944,images/NFL/Nfl015.jpg,,female,upper extremity,BKL,0,4
+macro-0945,images/NFL/Nfl017.jpg,,male,upper extremity,BKL,0,0
+macro-0946,images/NFL/Nfl019.jpg,,male,head/neck,BKL,0,4
+macro-0947,images/NFL/Nfl021.jpg,,female,head/neck,BKL,0,4
+macro-0948,images/NFL/NFL023.JPG,,male,head/neck,BKL,0,0
+macro-0949,images/NFL/Nfl025.jpg,,male,anterior torso,BKL,0,0
+macro-0950,images/NFL/Nfl027.jpg,,female,anterior torso,BKL,0,0
+macro-0951,images/NML/Nml112.jpg,,male,head/neck,BKL,0,1
+macro-0952,images/A3l/Acl226.jpg,,male,posterior torso,BKL,0,0
+macro-0953,images/A3l/Acl228.jpg,,male,upper extremity,BKL,0,0
+macro-0954,images/A3l/Acl260.jpg,,female,anterior torso,BKL,0,3
+macro-0955,images/Ael/Ael408.jpg,,male,upper extremity,BKL,0,3
+macro-0956,images/Ael/Ael426.jpg,,female,posterior torso,BKL,0,3
+macro-0957,images/Ael/Ael487.jpg,,female,anterior torso,BKL,0,0
+macro-0958,images/A3l/Acl204.jpg,,female,posterior torso,BKL,0,1
+macro-0959,images/Gzl/gzl17.jpg,,male,anterior torso,BKL,0,0
+macro-0960,images/Gzl/gzl29.jpg,,female,anterior torso,BKL,0,0
+macro-0961,images/Gzl/gzl45.jpg,,female,anterior torso,BKL,0,2
+macro-0962,images/Gal/Gal129.jpg,,male,posterior torso,BKL,0,4
+macro-0963,images/Gal/Gal172.jpg,,male,anterior torso,BKL,0,1
+macro-0964,images/Gal/Gal133.jpg,,female,posterior torso,BKL,0,3
+macro-0965,images/FAL/Fal047.jpg,,male,head/neck,BKL,0,1
+macro-0966,images/FFL/Ffl051.jpg,,male,anterior torso,BKL,0,1
+macro-0967,images/FFL/Ffl069.jpg,,male,head/neck,BKL,0,2
+macro-0968,images/FDL/Fdl031.jpg,,male,head/neck,BKL,0,1
+macro-0969,images/FDL/Fdl057.jpg,,male,posterior torso,BKL,0,2
+macro-0970,images/FDL/Fdl072.jpg,,female,head/neck,BKL,0,3
+macro-0971,images/FDL/Fdl073.jpg,,male,head/neck,BKL,0,4
+macro-0972,images/Ggl/Ggl021.jpg,,female,anterior torso,BKL,0,1
+macro-0973,images/Ggl/Ggl017.jpg,,male,head/neck,BKL,0,2
+macro-0974,images/Ggl/Ggl019.jpg,,male,anterior torso,BKL,0,2
+macro-0975,images/Ggl/Ggl045.jpg,,female,anterior torso,BKL,0,3
+macro-0976,images/Ggl/Ggl065.jpg,,male,upper extremity,BKL,0,0
+macro-0977,images/Ggl/Ggl085.jpg,,male,anterior torso,BKL,0,2
+macro-0978,images/Fll/Fll103.jpg,,male,posterior torso,BKL,0,1
+macro-0979,images/Fhl/Fhl047.jpg,,male,posterior torso,BKL,0,3
+macro-0980,images/Fil/Fil079.jpg,,female,anterior torso,BKL,0,1
+macro-0981,images/FDL/Fdl059.jpg,,female,anterior torso,BKL,0,3
+macro-0982,images/NEL/Nel043.jpg,,female,lower extremity,VASC,0,3
+macro-0983,images/NEL/Nel054.jpg,,female,head/neck,VASC,0,2
+macro-0984,images/NEL/Nel057.jpg,,female,head/neck,VASC,0,3
+macro-0985,images/NEL/Nel058.jpg,,male,palms/soles,VASC,0,4
+macro-0986,images/NEL/Nel060.jpg,,male,palms/soles,VASC,0,3
+macro-0987,images/NEL/Nel063.jpg,,female,anterior torso,VASC,0,1
+macro-0988,images/NEL/Nel065.jpg,,male,upper extremity,VASC,0,2
+macro-0989,images/NEL/Nel067.jpg,,female,anterior torso,VASC,0,2
+macro-0990,images/NEL/Nel069.jpg,,male,lower extremity,VASC,0,3
+macro-0991,images/NEL/Nel070.jpg,,female,upper extremity,VASC,0,4
+macro-0992,images/NEL/Nel072.jpg,,female,head/neck,VASC,0,4
+macro-0993,images/NEL/Nel074.jpg,,female,lower extremity,VASC,0,1
+macro-0994,images/NEL/Nel079.jpg,,female,palms/soles,VASC,0,0
+macro-0995,images/NEL/Nel080.jpg,,female,palms/soles,VASC,0,2
+macro-0996,images/NGL/Ngl081.jpg,,female,head/neck,VASC,0,3
+macro-0997,images/NML/Nml040.jpg,,female,upper extremity,VASC,0,1
+macro-0998,images/NML/Nml107.jpg,,male,upper extremity,VASC,0,4
+macro-0999,images/A3l/Acl236.jpg,,female,lower extremity,VASC,0,1
+macro-1000,images/Ael/Ael458.jpg,,male,palms/soles,VASC,0,3
+macro-1001,images/Ael/Ael518bis.jpg,,male,palms/soles,VASC,0,4
+macro-1002,images/Gzl/gzl73.jpg,,male,upper extremity,VASC,0,0
+macro-1003,images/Ggl/Ggl011.jpg,,female,lower extremity,VASC,0,0
+macro-1004,images/Ggl/Ggl013.jpg,,female,anterior torso,VASC,0,4
+macro-1005,images/Ggl/Ggl015.jpg,,male,anterior torso,VASC,0,2
+macro-1006,images/Ggl/Ggl031.jpg,,female,palms/soles,VASC,0,0
+macro-1007,images/Fhl/Fhl057.jpg,,male,head/neck,VASC,0,1
+macro-1008,images/Fhl/Fhl059.jpg,,female,anterior torso,VASC,0,0
+macro-1009,images/Fil/Fil081.jpg,,male,head/neck,VASC,0,0
+macro-1010,images/New/newl015.jpg,,male,upper extremity,VASC,0,2
+macro-1011,images/Adl/Adl388.jpg,,female,lower extremity,MEL,1,1
